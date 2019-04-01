@@ -1,0 +1,35 @@
+<application>
+  <component name="PropertiesComponent">
+    <property name="Copy.OpenInEditor" value="true" />
+    <property name="DBE.Default.Dialect" value="MySQL" />
+    <property name="Default.savedEditorTheme" value="_@user_Default" />
+    <property name="ExpandBeforeRunStepsPanel" value="true" />
+    <property name="ExpandRunDashboardTypesPanel" value="false" />
+    <property name="ExternalToolDialog.advanced.expanded" value="true" />
+    <property name="GO_IDE_DEFAULT_PROJECT_PATH" value="$USER_HOME$/go/src/github.com/RY_2718" />
+    <property name="InstalledPluginsSearchHistory" value="setting" />
+    <property name="LayoutCode.optimizeImports" value="true" />
+    <property name="PLUGIN_FILTER" value="ideavim&#10;file wa&#10;file watchers" />
+    <property name="PluginConfigurable.selectionTab" value="1" />
+    <property name="SearchEveryWhereHistory" value="" />
+    <property name="SettingsSearchHistory" value="setting" />
+    <property name="SqlStructureView.filterD.file.structure.state" value="true" />
+    <property name="TrendingPluginsSearchHistory" value="settings repository" />
+    <property name="evlsprt3.173" value="16" />
+    <property name="evlsprt3.182" value="10" />
+    <property name="evlsprt3.183" value="11" />
+    <property name="file.gist.reindex.count" value="116" />
+    <property name="fileTypeChangedCounter" value="4" />
+    <property name="go.init.cfg.2" value="true" />
+    <property name="go.init.cfg.line.markers" value="true" />
+    <property name="go.init.mod.file.type" value="true" />
+    <property name="go.last.update.timestamp" value="1554139668390" />
+    <property name="go.libraries.notification.had.been.shown" value="true" />
+    <property name="go.optimizeImportsByDefault" value="true" />
+    <property name="go.suggest.all.rc.was.enabled.once" value="true" />
+    <property name="ideavim.statistics.timestamp" value="1554139668389" />
+    <property name="js.rename.search.for.text.occurrences" value="false" />
+    <property name="js.rename.search.in.comments" value="true" />
+    <property name="ts.lib.d.ts.version" value="3.2.1" />
+  </component>
+</application>
