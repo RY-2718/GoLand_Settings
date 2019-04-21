@@ -75,6 +75,12 @@
         <mark key="." line="16" column="24" />
         <mark key="^" line="16" column="24" />
       </file>
+      <file name="$USER_HOME$/go/src/github.com/INL-Catalogue/GraphManagerHttp/docker-compose.yml" timestamp="1555867434920">
+        <mark key="[" line="10" column="14" />
+        <mark key="]" line="10" column="18" />
+        <mark key="^" line="10" column="18" />
+        <mark key="." line="10" column="18" />
+      </file>
       <file name="$USER_HOME$/.ghq/github.com/INL-Catalogue/CatalogueHTTPClient/client.go" timestamp="1555863726302">
         <mark key="'" line="3" column="0" />
         <mark key="[" line="18" column="20" />
@@ -546,6 +552,12 @@
         <mark key="." line="9" column="10" />
         <mark key="^" line="9" column="10" />
       </file>
+      <file name="$USER_HOME$/go/src/github.com/INL-Catalogue/GraphManagerHttp/sql/init/truncate.sql" timestamp="1555867289694">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="2" column="14" />
+        <mark key="^" line="2" column="14" />
+        <mark key="." line="2" column="14" />
+      </file>
       <file name="$USER_HOME$/go/src/github.com/CyberAgentHack/hidakkathon201903-ry-2718/go/model/user.go" timestamp="1551407195196">
         <mark key="[" line="7" column="1" />
         <mark key="]" line="9" column="16" />
@@ -822,7 +834,7 @@
         <text encoding="base64">CXJlcUJvZHksIGVyciA6PQoK</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>q</text>
       </register>
     </registers>
     <search>
@@ -870,14 +882,14 @@
         <entry>17</entry>
         <entry>68</entry>
         <entry>26,45y</entry>
-        <entry>wqa</entry>
         <entry>42</entry>
         <entry>12</entry>
         <entry>'s,'ey</entry>
         <entry>:w</entry>
+        <entry>w</entry>
+        <entry>wqa</entry>
         <entry>qa</entry>
         <entry>q</entry>
-        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
