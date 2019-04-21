@@ -54,7 +54,7 @@
         <mark key="." line="29" column="52" />
         <mark key="^" line="29" column="52" />
       </file>
-      <file name="$USER_HOME$/go/src/github.com/INL-Catalogue/CatalogueServerHttp/src/usecase/catalogue_interactor.go" timestamp="1553153136192">
+      <file name="$USER_HOME$/go/src/github.com/INL-Catalogue/CatalogueServerHttp/src/usecase/catalogue_interactor.go" timestamp="1555843545856">
         <mark key="s" line="34" column="18" />
         <mark key="e" line="37" column="4" />
         <mark key="'" line="31" column="17" />
@@ -75,7 +75,7 @@
         <mark key="." line="16" column="24" />
         <mark key="^" line="16" column="24" />
       </file>
-      <file name="$USER_HOME$/.ghq/github.com/INL-Catalogue/CatalogueHTTPClient/client.go" timestamp="1555840853443">
+      <file name="$USER_HOME$/.ghq/github.com/INL-Catalogue/CatalogueHTTPClient/client.go" timestamp="1555844425316">
         <mark key="'" line="3" column="0" />
         <mark key="[" line="28" column="0" />
         <mark key="]" line="28" column="0" />
@@ -184,10 +184,10 @@
         <mark key="^" line="7" column="40" />
         <mark key="." line="7" column="40" />
       </file>
-      <file name="$USER_HOME$/go/src/github.com/INL-Catalogue/GraphManagerHttp/src/interface/controller/edges_controller.go" timestamp="1555842598702">
+      <file name="$USER_HOME$/go/src/github.com/INL-Catalogue/GraphManagerHttp/src/interface/controller/edges_controller.go" timestamp="1555844175330">
         <mark key="s" line="74" column="0" />
         <mark key="e" line="78" column="0" />
-        <mark key="'" line="75" column="10" />
+        <mark key="'" line="74" column="7" />
         <mark key="[" line="50" column="19" />
         <mark key="]" line="50" column="20" />
         <mark key="." line="50" column="20" />
@@ -240,11 +240,12 @@
         <mark key="^" line="1" column="12" />
         <mark key="." line="1" column="12" />
       </file>
-      <file name="$USER_HOME$/go/src/github.com/INL-Catalogue/CatalogueServerHttp/src/interface/service/graph_manager_service.go" timestamp="1555842863915">
-        <mark key="'" line="87" column="0" />
-        <mark key="]" line="49" column="4" />
-        <mark key="." line="49" column="4" />
-        <mark key="^" line="49" column="4" />
+      <file name="$USER_HOME$/go/src/github.com/INL-Catalogue/CatalogueServerHttp/src/interface/service/graph_manager_service.go" timestamp="1555844714920">
+        <mark key="'" line="69" column="0" />
+        <mark key="[" line="56" column="26" />
+        <mark key="]" line="56" column="26" />
+        <mark key="." line="56" column="26" />
+        <mark key="^" line="56" column="26" />
       </file>
       <file name="$USER_HOME$/go/src/github.com/INL-Catalogue/CatalogueServerHttp/src/router/edges_router.go" timestamp="1549785389136">
         <mark key="'" line="11" column="24" />
@@ -253,10 +254,10 @@
         <mark key="^" line="11" column="30" />
         <mark key="." line="11" column="30" />
       </file>
-      <file name="$USER_HOME$/go/src/github.com/INL-Catalogue/GraphManagerHttp/src/interface/database/edge_repository.go" timestamp="1552294494329">
+      <file name="$USER_HOME$/go/src/github.com/INL-Catalogue/GraphManagerHttp/src/interface/database/edge_repository.go" timestamp="1555844284983">
         <mark key="s" line="117" column="15" />
         <mark key="e" line="120" column="4" />
-        <mark key="'" line="13" column="0" />
+        <mark key="'" line="26" column="85" />
         <mark key="[" line="73" column="56" />
         <mark key="]" line="74" column="61" />
         <mark key="." line="74" column="61" />
@@ -327,12 +328,12 @@
         <mark key="^" line="5" column="53" />
         <mark key="." line="5" column="53" />
       </file>
-      <file name="$USER_HOME$/go/src/github.com/INL-Catalogue/CatalogueServerHttp/src/server.go" timestamp="1553320266419">
+      <file name="$USER_HOME$/go/src/github.com/INL-Catalogue/CatalogueServerHttp/src/server.go" timestamp="1555844420476">
         <mark key="'" line="33" column="8" />
         <mark key="[" line="45" column="52" />
-        <mark key="]" line="45" column="58" />
+        <mark key="]" line="45" column="52" />
         <mark key="^" line="45" column="58" />
-        <mark key="." line="45" column="58" />
+        <mark key="." line="45" column="52" />
       </file>
       <file name="$USER_HOME$/go/src/github.com/INL-Catalogue/CatalogueServerHttp/sql/CatalogServer.sql" timestamp="1547490228753">
         <mark key="'" line="29" column="0" />
@@ -510,7 +511,8 @@
         <mark key="." line="24" column="36" />
         <mark key="^" line="24" column="36" />
       </file>
-      <file name="$USER_HOME$/go/src/github.com/INL-Catalogue/GraphManagerHttp/src/usecase/edge_interactor.go" timestamp="1552284807717">
+      <file name="$USER_HOME$/go/src/github.com/INL-Catalogue/GraphManagerHttp/src/usecase/edge_interactor.go" timestamp="1555844186954">
+        <mark key="'" line="23" column="7" />
         <mark key="[" line="4" column="37" />
         <mark key="]" line="4" column="66" />
         <mark key="." line="4" column="66" />
@@ -548,43 +550,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="24" column="264" filename="$USER_HOME$/go/src/github.com/INL-Catalogue/GraphManagerHttp/src/domain/catalogue_test.go" />
-      <jump line="29" column="22" filename="$USER_HOME$/go/src/github.com/INL-Catalogue/GraphManagerHttp/src/domain/edge_for_mysql.go" />
-      <jump line="8" column="8" filename="$USER_HOME$/go/src/github.com/INL-Catalogue/GraphManagerHttp/src/domain/edge_for_mysql_test.go" />
-      <jump line="43" column="0" filename="$USER_HOME$/go/src/github.com/INL-Catalogue/GraphManagerHttp/src/domain/node_test.go" />
-      <jump line="5" column="12" filename="$USER_HOME$/go/src/github.com/INL-Catalogue/GraphManagerHttp/src/domain/catalogue_test.go" />
-      <jump line="46" column="4" filename="$USER_HOME$/go/src/github.com/INL-Catalogue/GraphManagerHttp/src/interface/controller/edges_controller.go" />
-      <jump line="88" column="25" filename="$USER_HOME$/go/src/github.com/INL-Catalogue/GraphManagerHttp/src/interface/database/edge_repository.go" />
-      <jump line="86" column="8" filename="$USER_HOME$/go/src/github.com/INL-Catalogue/GraphManagerHttp/src/interface/database/edge_repository.go" />
-      <jump line="14" column="13" filename="$USER_HOME$/go/src/github.com/INL-Catalogue/GraphManagerHttp/src/interface/database/edge_repository.go" />
-      <jump line="18" column="13" filename="$USER_HOME$/go/src/github.com/INL-Catalogue/GraphManagerHttp/src/interface/database/edge_repository.go" />
-      <jump line="23" column="17" filename="$USER_HOME$/go/src/github.com/INL-Catalogue/GraphManagerHttp/src/interface/database/edge_repository.go" />
-      <jump line="72" column="0" filename="$USER_HOME$/go/src/github.com/INL-Catalogue/GraphManagerHttp/src/interface/database/edge_repository_test.go" />
-      <jump line="110" column="0" filename="$USER_HOME$/go/src/github.com/INL-Catalogue/GraphManagerHttp/src/interface/database/edge_repository_test.go" />
-      <jump line="17" column="8" filename="$USER_HOME$/go/src/github.com/INL-Catalogue/GraphManagerHttp/src/server.go" />
-      <jump line="13" column="0" filename="$USER_HOME$/go/src/github.com/INL-Catalogue/GraphManagerHttp/src/interface/database/edge_repository.go" />
-      <jump line="0" column="0" filename="$USER_HOME$/go/src/github.com/INL-Catalogue/GraphManagerHttp/src/interface/database/edge_repository_test.go" />
-      <jump line="99" column="4" filename="$USER_HOME$/go/src/github.com/INL-Catalogue/GraphManagerHttp/src/interface/database/edge_repository_test.go" />
-      <jump line="33" column="5" filename="$USER_HOME$/go/src/github.com/INL-Catalogue/GraphManagerHttp/src/interface/database/edge_repository_test.go" />
-      <jump line="37" column="82" filename="$USER_HOME$/go/src/github.com/INL-Catalogue/GraphManagerHttp/src/interface/database/edge_repository_test.go" />
-      <jump line="40" column="77" filename="$USER_HOME$/go/src/github.com/INL-Catalogue/GraphManagerHttp/src/interface/database/edge_repository_test.go" />
-      <jump line="41" column="77" filename="$USER_HOME$/go/src/github.com/INL-Catalogue/GraphManagerHttp/src/interface/database/edge_repository_test.go" />
-      <jump line="44" column="77" filename="$USER_HOME$/go/src/github.com/INL-Catalogue/GraphManagerHttp/src/interface/database/edge_repository_test.go" />
-      <jump line="45" column="77" filename="$USER_HOME$/go/src/github.com/INL-Catalogue/GraphManagerHttp/src/interface/database/edge_repository_test.go" />
-      <jump line="48" column="77" filename="$USER_HOME$/go/src/github.com/INL-Catalogue/GraphManagerHttp/src/interface/database/edge_repository_test.go" />
-      <jump line="49" column="77" filename="$USER_HOME$/go/src/github.com/INL-Catalogue/GraphManagerHttp/src/interface/database/edge_repository_test.go" />
-      <jump line="52" column="77" filename="$USER_HOME$/go/src/github.com/INL-Catalogue/GraphManagerHttp/src/interface/database/edge_repository_test.go" />
-      <jump line="53" column="77" filename="$USER_HOME$/go/src/github.com/INL-Catalogue/GraphManagerHttp/src/interface/database/edge_repository_test.go" />
-      <jump line="58" column="12" filename="$USER_HOME$/go/src/github.com/INL-Catalogue/GraphManagerHttp/src/interface/database/edge_repository_test.go" />
-      <jump line="59" column="7" filename="$USER_HOME$/go/src/github.com/INL-Catalogue/GraphManagerHttp/src/interface/database/edge_repository_test.go" />
-      <jump line="60" column="56" filename="$USER_HOME$/go/src/github.com/INL-Catalogue/GraphManagerHttp/src/interface/database/edge_repository_test.go" />
-      <jump line="74" column="45" filename="$USER_HOME$/go/src/github.com/INL-Catalogue/GraphManagerHttp/src/interface/database/edge_repository_test.go" />
-      <jump line="5" column="13" filename="$USER_HOME$/go/src/github.com/INL-Catalogue/GraphManagerHttp/src/usecase/edge_repository.go" />
-      <jump line="27" column="8" filename="$USER_HOME$/go/src/github.com/INL-Catalogue/GraphManagerHttp/src/server.go" />
-      <jump line="51" column="4" filename="$USER_HOME$/go/src/github.com/INL-Catalogue/GraphManagerHttp/src/server.go" />
-      <jump line="64" column="41" filename="$USER_HOME$/go/src/github.com/INL-Catalogue/CatalogueServerHttp/src/interface/database/catalogue_repository.go" />
-      <jump line="29" column="0" filename="$USER_HOME$/go/src/github.com/INL-Catalogue/CatalogueServerHttp/src/interface/database/catalogue_repository_test.go" />
-      <jump line="67" column="4" filename="$USER_HOME$/go/src/github.com/INL-Catalogue/CatalogueServerHttp/src/interface/database/catalogue_repository.go" />
       <jump line="63" column="4" filename="$USER_HOME$/go/src/github.com/INL-Catalogue/CatalogueServerHttp/src/interface/controller/catalogues_controller.go" />
       <jump line="17" column="0" filename="$USER_HOME$/go/src/github.com/INL-Catalogue/CatalogueServerHttp/src/interface/controller/catalogues_controller.go" />
       <jump line="56" column="26" filename="$USER_HOME$/go/src/github.com/INL-Catalogue/CatalogueServerHttp/src/interface/database/catalogue_repository.go" />
@@ -641,17 +606,54 @@
       <jump line="36" column="0" filename="$USER_HOME$/go/src/github.com/INL-Catalogue/CatalogueServerHttp/src/interface/controller/catalogues_controller.go" />
       <jump line="42" column="9" filename="$USER_HOME$/go/src/github.com/INL-Catalogue/GraphManagerHttp/src/interface/controller/edges_controller.go" />
       <jump line="52" column="10" filename="$USER_HOME$/go/src/github.com/INL-Catalogue/GraphManagerHttp/src/interface/controller/edges_controller.go" />
-      <jump line="67" column="10" filename="$USER_HOME$/go/src/github.com/INL-Catalogue/GraphManagerHttp/src/interface/controller/edges_controller.go" />
-      <jump line="75" column="10" filename="$USER_HOME$/go/src/github.com/INL-Catalogue/GraphManagerHttp/src/interface/controller/edges_controller.go" />
       <jump line="34" column="18" filename="$USER_HOME$/go/src/github.com/INL-Catalogue/CatalogueServerHttp/src/interface/controller/catalogues_controller.go" />
       <jump line="12" column="0" filename="$USER_HOME$/go/src/github.com/INL-Catalogue/GraphManagerHttp/src/domain/catalogue.go" />
       <jump line="3" column="0" filename="$USER_HOME$/.ghq/github.com/INL-Catalogue/CatalogueHTTPClient/client.go" />
       <jump line="81" column="4" filename="$USER_HOME$/go/src/github.com/INL-Catalogue/CatalogueServerHttp/src/interface/service/graph_manager_service.go" />
       <jump line="87" column="0" filename="$USER_HOME$/go/src/github.com/INL-Catalogue/CatalogueServerHttp/src/interface/service/graph_manager_service.go" />
+      <jump line="51" column="8" filename="$USER_HOME$/go/src/github.com/INL-Catalogue/CatalogueServerHttp/src/interface/service/graph_manager_service.go" />
+      <jump line="113" column="0" filename="$USER_HOME$/go/src/github.com/INL-Catalogue/CatalogueServerHttp/src/interface/service/graph_manager_service.go" />
+      <jump line="34" column="0" filename="$USER_HOME$/go/src/github.com/INL-Catalogue/GraphManagerHttp/src/interface/database/edge_repository.go" />
+      <jump line="35" column="4" filename="$USER_HOME$/go/src/github.com/INL-Catalogue/GraphManagerHttp/src/interface/database/edge_repository.go" />
+      <jump line="42" column="7" filename="$USER_HOME$/go/src/github.com/INL-Catalogue/GraphManagerHttp/src/interface/database/edge_repository.go" />
+      <jump line="44" column="20" filename="$USER_HOME$/go/src/github.com/INL-Catalogue/GraphManagerHttp/src/interface/database/edge_repository.go" />
+      <jump line="75" column="20" filename="$USER_HOME$/go/src/github.com/INL-Catalogue/GraphManagerHttp/src/interface/controller/edges_controller.go" />
+      <jump line="87" column="16" filename="$USER_HOME$/go/src/github.com/INL-Catalogue/GraphManagerHttp/src/interface/controller/edges_controller.go" />
+      <jump line="93" column="7" filename="$USER_HOME$/go/src/github.com/INL-Catalogue/GraphManagerHttp/src/interface/controller/edges_controller.go" />
+      <jump line="32" column="15" filename="$USER_HOME$/go/src/github.com/INL-Catalogue/GraphManagerHttp/src/interface/controller/edges_controller.go" />
+      <jump line="34" column="7" filename="$USER_HOME$/go/src/github.com/INL-Catalogue/GraphManagerHttp/src/interface/controller/edges_controller.go" />
+      <jump line="35" column="20" filename="$USER_HOME$/go/src/github.com/INL-Catalogue/GraphManagerHttp/src/interface/controller/edges_controller.go" />
+      <jump line="49" column="9" filename="$USER_HOME$/go/src/github.com/INL-Catalogue/GraphManagerHttp/src/interface/controller/edges_controller.go" />
+      <jump line="50" column="7" filename="$USER_HOME$/go/src/github.com/INL-Catalogue/GraphManagerHttp/src/interface/controller/edges_controller.go" />
+      <jump line="51" column="20" filename="$USER_HOME$/go/src/github.com/INL-Catalogue/GraphManagerHttp/src/interface/controller/edges_controller.go" />
+      <jump line="64" column="4" filename="$USER_HOME$/go/src/github.com/INL-Catalogue/GraphManagerHttp/src/interface/controller/edges_controller.go" />
+      <jump line="66" column="7" filename="$USER_HOME$/go/src/github.com/INL-Catalogue/GraphManagerHttp/src/interface/controller/edges_controller.go" />
+      <jump line="67" column="20" filename="$USER_HOME$/go/src/github.com/INL-Catalogue/GraphManagerHttp/src/interface/controller/edges_controller.go" />
+      <jump line="72" column="4" filename="$USER_HOME$/go/src/github.com/INL-Catalogue/GraphManagerHttp/src/interface/controller/edges_controller.go" />
+      <jump line="74" column="7" filename="$USER_HOME$/go/src/github.com/INL-Catalogue/GraphManagerHttp/src/interface/controller/edges_controller.go" />
+      <jump line="20" column="70" filename="$USER_HOME$/go/src/github.com/INL-Catalogue/GraphManagerHttp/src/usecase/edge_interactor.go" />
+      <jump line="22" column="4" filename="$USER_HOME$/go/src/github.com/INL-Catalogue/GraphManagerHttp/src/usecase/edge_interactor.go" />
+      <jump line="32" column="16" filename="$USER_HOME$/go/src/github.com/INL-Catalogue/GraphManagerHttp/src/usecase/edge_interactor.go" />
+      <jump line="30" column="98" filename="$USER_HOME$/go/src/github.com/INL-Catalogue/GraphManagerHttp/src/usecase/edge_interactor.go" />
+      <jump line="25" column="15" filename="$USER_HOME$/go/src/github.com/INL-Catalogue/GraphManagerHttp/src/usecase/edge_interactor.go" />
+      <jump line="23" column="7" filename="$USER_HOME$/go/src/github.com/INL-Catalogue/GraphManagerHttp/src/usecase/edge_interactor.go" />
+      <jump line="51" column="0" filename="$USER_HOME$/go/src/github.com/INL-Catalogue/GraphManagerHttp/src/interface/database/edge_repository.go" />
+      <jump line="53" column="71" filename="$USER_HOME$/go/src/github.com/INL-Catalogue/GraphManagerHttp/src/interface/database/edge_repository.go" />
+      <jump line="55" column="8" filename="$USER_HOME$/go/src/github.com/INL-Catalogue/GraphManagerHttp/src/interface/database/edge_repository.go" />
+      <jump line="56" column="7" filename="$USER_HOME$/go/src/github.com/INL-Catalogue/GraphManagerHttp/src/interface/database/edge_repository.go" />
+      <jump line="58" column="15" filename="$USER_HOME$/go/src/github.com/INL-Catalogue/GraphManagerHttp/src/interface/database/edge_repository.go" />
+      <jump line="110" column="7" filename="$USER_HOME$/go/src/github.com/INL-Catalogue/GraphManagerHttp/src/interface/database/edge_repository.go" />
+      <jump line="111" column="7" filename="$USER_HOME$/go/src/github.com/INL-Catalogue/GraphManagerHttp/src/interface/database/edge_repository.go" />
+      <jump line="113" column="15" filename="$USER_HOME$/go/src/github.com/INL-Catalogue/GraphManagerHttp/src/interface/database/edge_repository.go" />
+      <jump line="116" column="4" filename="$USER_HOME$/go/src/github.com/INL-Catalogue/GraphManagerHttp/src/interface/database/edge_repository.go" />
+      <jump line="117" column="7" filename="$USER_HOME$/go/src/github.com/INL-Catalogue/GraphManagerHttp/src/interface/database/edge_repository.go" />
+      <jump line="119" column="15" filename="$USER_HOME$/go/src/github.com/INL-Catalogue/GraphManagerHttp/src/interface/database/edge_repository.go" />
+      <jump line="26" column="85" filename="$USER_HOME$/go/src/github.com/INL-Catalogue/GraphManagerHttp/src/interface/database/edge_repository.go" />
+      <jump line="69" column="0" filename="$USER_HOME$/go/src/github.com/INL-Catalogue/CatalogueServerHttp/src/interface/service/graph_manager_service.go" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">CWZtdC5QcmludGxuKHN0cmluZyhyZXFKU09OKSkK</text>
+        <text encoding="base64">CQkJZm10LlAK</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -774,55 +776,55 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>r</text>
+        <text>http://</text>
       </register>
       <register name="/" type="4">
-        <text>fmt</text>
+        <text>err</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">CQlzcmMgOj0gZG9tYWluLk5vZGVJRHtTZXJ2ZXJJRDogMSwgT3duZXJJRDogMSwgTG9jYWxJRDogdWludDMyKGkpLCBWZXJzaW9uSUQ6IDB9Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CWZtdC5QcmludGxuKHN0cmluZyhyZXFKU09OKSkK</text>
+        <text encoding="base64">CQkJZm10LlAK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CW8K</text>
+        <text encoding="base64">CWZtdC5QcmludGxuKHN0cmluZyhyZXFKU09OKSkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CXJlcUJvZHksIGVyciA6PQoK</text>
+        <text encoding="base64">CW8K</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">CXJlcUJvZHksIGVyciA6PQoK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CXJlcUJvZHksIGVyciA6PQoKCXJlcSwgZXJyIDo9IGh0dHAuTmV3UmVxdWVzdCgiUE9TVCIsICIxMjcuMC4wLjE6ODA4MSIsIHJlcUJvZHkpCn0K</text>
+        <text encoding="base64">CXJlcUJvZHksIGVyciA6PQoK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CSJieXRlcyIK</text>
+        <text encoding="base64">CXJlcUJvZHksIGVyciA6PQoKCXJlcSwgZXJyIDo9IGh0dHAuTmV3UmVxdWVzdCgiUE9TVCIsICIxMjcuMC4wLjE6ODA4MSIsIHJlcUJvZHkpCn0K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CXZhciByZXFCb2R5IFtdYnl0ZXMuQnVmZmVyCg==</text>
+        <text encoding="base64">CSJieXRlcyIK</text>
       </register>
       <register name="w" type="4">
         <text>www</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CXJlcSwgZXJyIDo9IGh0dHAuTmV3UmVxdWVzdCgKCQkiUE9TVCIsCgkJdXJsLCAKCQkpCg==</text>
+        <text encoding="base64">CXZhciByZXFCb2R5IFtdYnl0ZXMuQnVmZmVyCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CVwK</text>
+        <text encoding="base64">CXJlcSwgZXJyIDo9IGh0dHAuTmV3UmVxdWVzdCgKCQkiUE9TVCIsCgkJdXJsLCAKCQkpCg==</text>
       </register>
       <register name=":" type="4">
-        <text>qa</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>fmt</last-search>
+      <last-search>err</last-search>
       <last-offset />
-      <last-pattern>fmt</last-pattern>
+      <last-pattern>err</last-pattern>
       <last-replace>e</last-replace>
       <last-substitute>n.Edge</last-substitute>
       <last-dir>1</last-dir>
@@ -830,7 +832,6 @@
     </search>
     <history>
       <history-search>
-        <entry>catalog</entry>
         <entry>EdgeController</entry>
         <entry encoding="base64">XDxzdHJpbmdcPg==</entry>
         <entry>Head</entry>
@@ -850,6 +851,7 @@
         <entry encoding="base64">XDxzXD4=</entry>
         <entry>64</entry>
         <entry>fmt</entry>
+        <entry>err</entry>
       </history-search>
       <history-cmd>
         <entry>54</entry>
@@ -868,10 +870,10 @@
         <entry>42</entry>
         <entry>12</entry>
         <entry>'s,'ey</entry>
-        <entry>q</entry>
-        <entry>w</entry>
         <entry>:w</entry>
         <entry>qa</entry>
+        <entry>q</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
