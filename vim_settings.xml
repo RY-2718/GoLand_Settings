@@ -250,12 +250,9 @@
         <mark key="^" line="1" column="12" />
         <mark key="." line="1" column="12" />
       </file>
-      <file name="$USER_HOME$/go/src/github.com/INL-Catalogue/CatalogueServerHttp/src/interface/service/graph_manager_service.go" timestamp="1555864017421">
-        <mark key="'" line="58" column="8" />
-        <mark key="[" line="27" column="40" />
-        <mark key="]" line="27" column="48" />
-        <mark key="." line="27" column="48" />
-        <mark key="^" line="27" column="48" />
+      <file name="$USER_HOME$/go/src/github.com/INL-Catalogue/CatalogueServerHttp/src/interface/service/graph_manager_service.go" timestamp="1556890260503">
+        <mark key="'" line="28" column="0" />
+        <mark key="^" line="26" column="48" />
       </file>
       <file name="$USER_HOME$/go/src/github.com/INL-Catalogue/CatalogueServerHttp/src/router/edges_router.go" timestamp="1549785389136">
         <mark key="'" line="11" column="24" />
@@ -352,8 +349,8 @@
         <mark key="^" line="17" column="15" />
         <mark key="." line="17" column="15" />
       </file>
-      <file name="$USER_HOME$/go/src/github.com/INL-Catalogue/CatalogueServerHttp/src/interface/controller/catalogues_controller.go" timestamp="1553320546468">
-        <mark key="'" line="34" column="18" />
+      <file name="$USER_HOME$/go/src/github.com/INL-Catalogue/CatalogueServerHttp/src/interface/controller/catalogues_controller.go" timestamp="1556890164306">
+        <mark key="'" line="83" column="4" />
         <mark key="[" line="57" column="25" />
         <mark key="]" line="57" column="29" />
         <mark key="." line="57" column="29" />
@@ -566,16 +563,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="56" column="26" filename="$USER_HOME$/go/src/github.com/INL-Catalogue/CatalogueServerHttp/src/interface/database/catalogue_repository.go" />
-      <jump line="38" column="34" filename="$USER_HOME$/go/src/github.com/INL-Catalogue/CatalogueServerHttp/src/interface/service/graph_manager.go" />
-      <jump line="2" column="53" filename="$USER_HOME$/go/src/github.com/INL-Catalogue/CatalogueServerHttp/src/interface/service/graph_manager.go" />
-      <jump line="14" column="12" filename="$USER_HOME$/go/src/github.com/INL-Catalogue/CatalogueServerHttp/src/interface/service/graph_manager.go" />
-      <jump line="17" column="50" filename="$USER_HOME$/go/src/github.com/INL-Catalogue/CatalogueServerHttp/src/interface/service/graph_manager.go" />
-      <jump line="25" column="27" filename="$USER_HOME$/go/src/github.com/INL-Catalogue/CatalogueServerHttp/src/interface/service/graph_manager.go" />
-      <jump line="29" column="44" filename="$USER_HOME$/go/src/github.com/INL-Catalogue/CatalogueServerHttp/src/interface/service/graph_manager.go" />
-      <jump line="12" column="22" filename="$USER_HOME$/go/src/github.com/INL-Catalogue/CatalogueServerHttp/src/interface/service/graph_manager.go" />
-      <jump line="44" column="18" filename="$USER_HOME$/go/src/github.com/INL-Catalogue/CatalogueServerHttp/src/interface/service/graph_manager.go" />
-      <jump line="46" column="8" filename="$USER_HOME$/go/src/github.com/INL-Catalogue/CatalogueServerHttp/src/interface/service/graph_manager.go" />
       <jump line="9" column="49" filename="$USER_HOME$/go/src/github.com/INL-Catalogue/CatalogueServerHttp/src/interface/service/graph_manager.go" />
       <jump line="6" column="35" filename="$USER_HOME$/go/src/github.com/INL-Catalogue/CatalogueServerHttp/src/interface/service/graph_manager.go" />
       <jump line="1" column="0" filename="$USER_HOME$/go/src/github.com/INL-Catalogue/CatalogueServerHttp/src/interface/service/graph_manager.go" />
@@ -666,10 +653,20 @@
       <jump line="69" column="0" filename="$USER_HOME$/go/src/github.com/INL-Catalogue/CatalogueServerHttp/src/interface/service/graph_manager_service.go" />
       <jump line="56" column="8" filename="$USER_HOME$/go/src/github.com/INL-Catalogue/CatalogueServerHttp/src/interface/service/graph_manager_service.go" />
       <jump line="27" column="0" filename="$USER_HOME$/go/src/github.com/INL-Catalogue/CatalogueServerHttp/sql/2_data.sql" />
+      <jump line="19" column="18" filename="$USER_HOME$/go/src/github.com/INL-Catalogue/CatalogueServerHttp/src/interface/controller/catalogues_controller.go" />
+      <jump line="20" column="44" filename="$USER_HOME$/go/src/github.com/INL-Catalogue/CatalogueServerHttp/src/interface/controller/catalogues_controller.go" />
+      <jump line="35" column="8" filename="$USER_HOME$/go/src/github.com/INL-Catalogue/CatalogueServerHttp/src/interface/controller/catalogues_controller.go" />
+      <jump line="41" column="8" filename="$USER_HOME$/go/src/github.com/INL-Catalogue/CatalogueServerHttp/src/interface/controller/catalogues_controller.go" />
+      <jump line="52" column="8" filename="$USER_HOME$/go/src/github.com/INL-Catalogue/CatalogueServerHttp/src/interface/controller/catalogues_controller.go" />
+      <jump line="57" column="4" filename="$USER_HOME$/go/src/github.com/INL-Catalogue/CatalogueServerHttp/src/interface/controller/catalogues_controller.go" />
+      <jump line="70" column="8" filename="$USER_HOME$/go/src/github.com/INL-Catalogue/CatalogueServerHttp/src/interface/controller/catalogues_controller.go" />
+      <jump line="78" column="8" filename="$USER_HOME$/go/src/github.com/INL-Catalogue/CatalogueServerHttp/src/interface/controller/catalogues_controller.go" />
+      <jump line="83" column="4" filename="$USER_HOME$/go/src/github.com/INL-Catalogue/CatalogueServerHttp/src/interface/controller/catalogues_controller.go" />
+      <jump line="28" column="0" filename="$USER_HOME$/go/src/github.com/INL-Catalogue/CatalogueServerHttp/src/interface/service/graph_manager_service.go" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">CXJlcVN0IDo9IG1lcXVlc3R7Q2F0YWxvZ3VlczogW11kb21haW4uQ2F0YWxvZ3Vle2NhdGFsb2d1ZX19CgoJcmVxSlNPTiwgZXJyIDo9IGpzb24uTWFyc2hhbChyZXFTdCkKCWlmIGVyciAhPSBuaWwgewoJCWxvZy5GYXRhbChlcnIuRXJyb3IoKSkKCX0KCglyZXEsIGVyciA6PSBodHRwLk5ld1JlcXVlc3QoIlBPU1QiLCAiaHR0cDovLzEyNy4wLjAuMTo4MDgxL2NhdGFsb2d1ZXMiLCBieXRlcy5OZXdCdWZmZXIocmVxSlNPTikpCglpZiBlcnIgIT0gbmlsIHsKCQlsb2cuRmF0YWwoZXJyLkVycm9yKCkpCgl9CglyZXEuSGVhZGVyLlNldCgiQ29udGVudC1UeXBlIiwgImFwcGxpY2F0aW9uL2pzb24iKQoKCWNsaWVudCA6PSAmaHR0cC5DbGllbnR7fQoJcmVzcCwgZXJyIDo9IGNsaWVudC5EbyhyZXEpCglpZiBlcnIgIT0gbmlsIHsKCQlsb2cuRmF0YWwoZXJyKQoJfQoJZGVmZXIgcmVzcC5Cb2R5LkNsb3NlKCkK</text>
+        <text encoding="base64">CQlmbXQuUHJpbnRsbihieXRlcy5OZXdCdWZmZXIoanNvblN0cikpCg==</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -795,52 +792,52 @@
         <text>R</text>
       </register>
       <register name="/" type="4">
-        <text>err</text>
+        <text>fmt</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">VVNFIGNhdGFsb2d1ZV9zZXJ2ZXI7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CXJlcVN0IDo9IG1lcXVlc3R7Q2F0YWxvZ3VlczogW11kb21haW4uQ2F0YWxvZ3Vle2NhdGFsb2d1ZX19CgoJcmVxSlNPTiwgZXJyIDo9IGpzb24uTWFyc2hhbChyZXFTdCkKCWlmIGVyciAhPSBuaWwgewoJCWxvZy5GYXRhbChlcnIuRXJyb3IoKSkKCX0KCglyZXEsIGVyciA6PSBodHRwLk5ld1JlcXVlc3QoIlBPU1QiLCAiaHR0cDovLzEyNy4wLjAuMTo4MDgxL2NhdGFsb2d1ZXMiLCBieXRlcy5OZXdCdWZmZXIocmVxSlNPTikpCglpZiBlcnIgIT0gbmlsIHsKCQlsb2cuRmF0YWwoZXJyLkVycm9yKCkpCgl9CglyZXEuSGVhZGVyLlNldCgiQ29udGVudC1UeXBlIiwgImFwcGxpY2F0aW9uL2pzb24iKQoKCWNsaWVudCA6PSAmaHR0cC5DbGllbnR7fQoJcmVzcCwgZXJyIDo9IGNsaWVudC5EbyhyZXEpCglpZiBlcnIgIT0gbmlsIHsKCQlsb2cuRmF0YWwoZXJyKQoJfQoJZGVmZXIgcmVzcC5Cb2R5LkNsb3NlKCkK</text>
+        <text encoding="base64">CQlmbXQuUHJpbnRsbihieXRlcy5OZXdCdWZmZXIoanNvblN0cikpCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CXJlcVN0IDo9IG1lcXVlc3R7Q2F0YWxvZ3VlczogW11kb21haW4uQ2F0YWxvZ3Vle2NhdGFsb2d1ZX19CgoJcmVxSlNPTiwgZXJyIDo9IGpzb24uTWFyc2hhbChyZXFTdCkKCWlmIGVyciAhPSBuaWwgewoJCWxvZy5GYXRhbChlcnIuRXJyb3IoKSkKCX0KCglyZXEsIGVyciA6PSBodHRwLk5ld1JlcXVlc3QoIlBPU1QiLCAiaHR0cDovLzEyNy4wLjAuMTo4MDgxL2NhdGFsb2d1ZXMiLCBieXRlcy5OZXdCdWZmZXIocmVxSlNPTikpCglpZiBlcnIgIT0gbmlsIHsKCQlsb2cuRmF0YWwoZXJyLkVycm9yKCkpCgl9CglyZXEuSGVhZGVyLlNldCgiQ29udGVudC1UeXBlIiwgImFwcGxpY2F0aW9uL2pzb24iKQoKCWNsaWVudCA6PSAmaHR0cC5DbGllbnR7fQoJcmVzcCwgZXJyIDo9IGNsaWVudC5EbyhyZXEpCglpZiBlcnIgIT0gbmlsIHsKCQlsb2cuRmF0YWwoZXJyKQoJfQoJZGVmZXIgcmVzcC5Cb2R5LkNsb3NlKCkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CWZtdC5QcmludGxuKHJlcXVlc3QuTmVpZ2hib3JzKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CWZtdC5QcmludGxuKHIuQm9keSkK</text>
+        <text encoding="base64">CWZtdC5QcmludGxuKHJlcXVlc3QuTmVpZ2hib3JzKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CQlmbXQuUHJpbnRsbihieXRlcy5OZXdCdWZmZXIoanNvblN0cikpCg==</text>
+        <text encoding="base64">CWZtdC5QcmludGxuKHIuQm9keSkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CXJlcUJvZHkgOj0gYnl0ZXMuTmV3QnVmZmVyKHJlcUpTT04pCgo=</text>
+        <text encoding="base64">CQlmbXQuUHJpbnRsbihieXRlcy5OZXdCdWZmZXIoanNvblN0cikpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQkJZm10LlAK</text>
+        <text encoding="base64">CXJlcUJvZHkgOj0gYnl0ZXMuTmV3QnVmZmVyKHJlcUpTT04pCgo=</text>
       </register>
       <register name="w" type="4">
         <text>www</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CWZtdC5QcmludGxuKHN0cmluZyhyZXFKU09OKSkK</text>
+        <text encoding="base64">CQkJZm10LlAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CW8K</text>
+        <text encoding="base64">CWZtdC5QcmludGxuKHN0cmluZyhyZXFKU09OKSkK</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>qa</text>
       </register>
     </registers>
     <search>
-      <last-search>err</last-search>
+      <last-search>fmt</last-search>
       <last-offset />
-      <last-pattern>err</last-pattern>
+      <last-pattern>fmt</last-pattern>
       <last-replace>e</last-replace>
       <last-substitute>n.Edge</last-substitute>
       <last-dir>1</last-dir>
@@ -848,8 +845,6 @@
     </search>
     <history>
       <history-search>
-        <entry>EdgeController</entry>
-        <entry encoding="base64">XDxzdHJpbmdcPg==</entry>
         <entry>Head</entry>
         <entry encoding="base64">XDxuZXdcPg==</entry>
         <entry>Edge</entry>
@@ -866,8 +861,10 @@
         <entry>catalogues</entry>
         <entry encoding="base64">XDxzXD4=</entry>
         <entry>64</entry>
-        <entry>fmt</entry>
         <entry>err</entry>
+        <entry>log</entry>
+        <entry>log\.</entry>
+        <entry>fmt</entry>
       </history-search>
       <history-cmd>
         <entry>noh</entry>
@@ -886,10 +883,10 @@
         <entry>'s,'ey</entry>
         <entry>:w</entry>
         <entry>wqa</entry>
-        <entry>q</entry>
-        <entry>qa</entry>
         <entry>26,44d</entry>
         <entry>w</entry>
+        <entry>q</entry>
+        <entry>qa</entry>
       </history-cmd>
       <history-expr />
       <history-input />
