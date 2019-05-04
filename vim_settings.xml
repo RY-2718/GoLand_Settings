@@ -54,12 +54,12 @@
         <mark key="." line="29" column="52" />
         <mark key="^" line="29" column="52" />
       </file>
-      <file name="$USER_HOME$/.ghq/github.com/INL-Catalogue/CatalogueHTTPClient/domain/node.go" timestamp="1556977586834">
-        <mark key="'" line="11" column="5" />
-        <mark key="[" line="18" column="17" />
-        <mark key="]" line="18" column="18" />
-        <mark key="^" line="18" column="18" />
-        <mark key="." line="18" column="18" />
+      <file name="$USER_HOME$/.ghq/github.com/INL-Catalogue/CatalogueHTTPClient/domain/node.go" timestamp="1556978648055">
+        <mark key="'" line="18" column="18" />
+        <mark key="[" line="83" column="24" />
+        <mark key="]" line="83" column="23" />
+        <mark key="^" line="83" column="23" />
+        <mark key="." line="83" column="23" />
       </file>
       <file name="$USER_HOME$/go/src/github.com/INL-Catalogue/CatalogueServerHttp/src/usecase/catalogue_interactor.go" timestamp="1555843545856">
         <mark key="s" line="34" column="18" />
@@ -231,11 +231,10 @@
         <mark key="^" line="107" column="0" />
         <mark key="." line="107" column="0" />
       </file>
-      <file name="$USER_HOME$/.ghq/github.com/INL-Catalogue/CatalogueHTTPClient/domain/catalogue.go" timestamp="1556977602200">
-        <mark key="[" line="16" column="45" />
-        <mark key="]" line="16" column="52" />
-        <mark key="." line="16" column="52" />
-        <mark key="^" line="16" column="52" />
+      <file name="$USER_HOME$/.ghq/github.com/INL-Catalogue/CatalogueHTTPClient/domain/catalogue.go" timestamp="1556978622004">
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="8" column="0" />
+        <mark key="." line="8" column="0" />
       </file>
       <file name="$USER_HOME$/go/src/github.com/INL-Catalogue/CatalogueServerHttp/src/model/edge.go" timestamp="1548295419717">
         <mark key="'" line="5" column="0" />
@@ -588,7 +587,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="19" column="0" filename="$USER_HOME$/go/src/github.com/INL-Catalogue/CatalogueServerHttp/src/interface/service/graph_manager.go" />
       <jump line="55" column="26" filename="$USER_HOME$/go/src/github.com/INL-Catalogue/CatalogueServerHttp/src/interface/service/graph_manager.go" />
       <jump line="80" column="22" filename="$USER_HOME$/go/src/github.com/INL-Catalogue/CatalogueServerHttp/src/interface/service/graph_manager.go" />
       <jump line="102" column="0" filename="$USER_HOME$/go/src/github.com/INL-Catalogue/CatalogueServerHttp/src/interface/service/graph_manager.go" />
@@ -688,10 +686,11 @@
       <jump line="64" column="0" filename="$USER_HOME$/.ghq/github.com/INL-Catalogue/CatalogueHTTPClient/http/scenario.go" />
       <jump line="79" column="0" filename="$USER_HOME$/.ghq/github.com/INL-Catalogue/CatalogueHTTPClient/domain/node.go" />
       <jump line="11" column="5" filename="$USER_HOME$/.ghq/github.com/INL-Catalogue/CatalogueHTTPClient/domain/node.go" />
+      <jump line="18" column="18" filename="$USER_HOME$/.ghq/github.com/INL-Catalogue/CatalogueHTTPClient/domain/node.go" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>type</text>
+        <text>.Edges</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -814,7 +813,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>type</text>
+        <text>.Edges</text>
       </register>
       <register name="/" type="4">
         <text>fmt</text>
@@ -823,37 +822,37 @@
         <text encoding="base64">CWlmIGVyciA6PSBiaW5hcnkuV3JpdGUoYnVmLCBieXRlT3JkZXIsIG4uT3duZXJJRCk7IGVyciAhPSBuaWwgewoJCXJldHVybiBuaWwsIGVycgoJfQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQljYXRCeXRlcywgZXJyIDo9IGMuQ2F0YWxvZ3VlSUQuVG9CaW5hcnkoYnl0ZU9yZGVyKQo=</text>
+        <text encoding="base64">CmZ1bmMgKGMgKkNhdGFsb2d1ZSkgVG9CaW5hcnkoYnl0ZU9yZGVyIGJpbmFyeS5CeXRlT3JkZXIpIChbXWJ5dGUsIGVycm9yKSB7CglidWYgOj0gbmV3KGJ5dGVzLkJ1ZmZlcikKCWZvciBfLCBlIDo9IHJhbmdlIGMuRWRnZXMgewoJCWlmIGVyciA6PSBiaW5hcnkuV3JpdGUoYnVmLCBieXRlT3JkZXIsIGUuV2VsbEtub3duKTsgZXJyICE9IG5pbCB7CgkJCXJldHVybiBuaWwsIGVycgoJCX0KCQlpZiBlcnIgOj0gYmluYXJ5LldyaXRlKGJ1ZiwgYnl0ZU9yZGVyLCBlLlVzZXJMb2NhbCk7IGVyciAhPSBuaWwgewoJCQlyZXR1cm4gbmlsLCBlcnIKCQl9CgoJCXNyY0J5dGVzLCBlcnIgOj0gZS5TcmMuVG9CaW5hcnkoYnl0ZU9yZGVyKQoJCWlmIGVyciAhPSBuaWwgewoJCQlyZXR1cm4gbmlsLCBlcnIKCQl9CgkJaWYgXywgZXJyIDo9IGJ1Zi5Xcml0ZShzcmNCeXRlcyk7IGVyciAhPSBuaWwgewoJCQlyZXR1cm4gbmlsLCBlcnIKCQl9CgoJCWRzdEJ5dGVzLCBlcnIgOj0gZS5Ec3QuVG9CaW5hcnkoYnl0ZU9yZGVyKQoJCWlmIGVyciAhPSBuaWwgewoJCQlyZXR1cm4gbmlsLCBlcnIKCQl9CgkJaWYgXywgZXJyIDo9IGJ1Zi5Xcml0ZShkc3RCeXRlcyk7IGVyciAhPSBuaWwgewoJCQlyZXR1cm4gbmlsLCBlcnIKCQl9Cgl9CglyZXR1cm4gYnVmLkJ5dGVzKCksIG5pbAp9Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQljaWQgOj0gJmMuQ2F0YWxvZ3VlSUQK</text>
+        <text encoding="base64">CWlmIGVyciAhPSBuaWwgewoJCXJldHVybiBuaWwsIGVycgoJfQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CQljaWQuVG8K</text>
+        <text encoding="base64">CWNhdEJ5dGVzLCBlcnIgOj0gYy5DYXRhbG9ndWVJRC5Ub0JpbmFyeShieXRlT3JkZXIpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQliaW5hcnkuV3JpdGUocmVzLCBiaW5hcnkuTGl0dGxlRW5kaWFuLCBjLkNhdGFsb2d1ZUlELlRvQmluYXJ5KCkpCg==</text>
+        <text encoding="base64">CQlpZiBlcnIgOj0gYmluYXJ5LldyaXRlKHJlcywgYnl0ZU9yZGVyLCBjYXRCeXRlcyk7IGVyciAhPSBuaWwgewoJCQlyZXR1cm4gbmlsLCBlcnIKCQl9Cgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CXJlcyA6PSBtYWtlKFtdYnl0ZSwgMCkK</text>
+        <text encoding="base64">CQkJcmV0dXIsIG5pbAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CQlidWYgOj0gbWFrZShbXWJ5dGVzLkJ1ZmZlcikK</text>
+        <text encoding="base64">CQlpZgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ZnVuYyAoYyAqQ2F0YWxvZ3VlKSBUb0VkZ2VSb3dzKCkgKGVycyBFZGdlUm93cykgewoJZXJzID0gRWRnZVJvd3N7fQoKCWZvciBfLCBlIDo9IHJhbmdlIGMuRWRnZXMgewoJCWVyIDo9IEVkZ2VSb3d7fQoJCWVyLkNhdGFsb2d1ZVNlcnZlcklEID0gYy5DYXRhbG9ndWVJRC5TZXJ2ZXJJRAoJCWVyLkNhdGFsb2d1ZU93bmVySUQgPSBjLkNhdGFsb2d1ZUlELk93bmVySUQKCQllci5DYXRhbG9ndWVMb2NhbElEID0gYy5DYXRhbG9ndWVJRC5Mb2NhbElECgkJZXIuQ2F0YWxvZ3VlVmVyc2lvbklEID0gYy5DYXRhbG9ndWVJRC5WZXJzaW9uSUQKCQllci5TcmNTZXJ2ZXJJRCA9IGUuU3JjLlNlcnZlcklECgkJZXIuU3JjT3duZXJJRCA9IGUuU3JjLk93bmVySUQKCQllci5TcmNMb2NhbElEID0gZS5TcmMuTG9jYWxJRAoJCWVyLlNyY1ZlcnNpb25JRCA9IGUuU3JjLlZlcnNpb25JRAoJCWVyLkRzdFNlcnZlcklEID0gZS5Ec3QuU2VydmVySUQKCQllci5Ec3RPd25lcklEID0gZS5Ec3QuT3duZXJJRAoJCWVyLkRzdExvY2FsSUQgPSBlLkRzdC5Mb2NhbElECgkJZXIuRHN0VmVyc2lvbklEID0gZS5Ec3QuVmVyc2lvbklECgkJZXIuQXR0cldlbGxLbm93biA9IGUuV2VsbEtub3duCgkJZXIuQXR0clVzZXJMb2NhbCA9IGUuVXNlckxvY2FsCgoJCWVycyA9IGFwcGVuZChlcnMsIGVyKQoJfQoKCXJldHVybgp9Cgo=</text>
+        <text encoding="base64">CQljYXRCeXRlcywgZXJyIDo9IGMuQ2F0YWxvZ3VlSUQuVG9CaW5hcnkoYnl0ZU9yZGVyKQo=</text>
       </register>
       <register name="w" type="4">
         <text>www</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">dHlwZSBSZXF1ZXN0IHN0cnVjdCB7CglDYXRhbG9ndWVzIFtdZG9tYWluLkNhdGFsb2d1ZSBganNvbjoiY2F0YWxvZ3VlcyJgCn0KCg==</text>
+        <text encoding="base64">CQljYXRCeXRlcywgZXJyIDo9IGMuQ2F0YWxvZ3VlSUQuVG9CaW5hcnkoYnl0ZU9yZGVyKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ZnVuYyBTZW5kKGNzIGRvbWFpbi5DYXRhbG9ndWVzLCBjbGllbnQgKmh0dHAuQ2xpZW50KSBlcnJvciB7CglyZXFTdCA6PSBSZXF1ZXN0e0NhdGFsb2d1ZXM6IGNzfQoKCXJlcUpTT04sIGVyciA6PSBqc29uLk1hcnNoYWwocmVxU3QpCglpZiBlcnIgIT0gbmlsIHsKCQlyZXR1cm4gZXJyCgl9CgoJcmVxLCBlcnIgOj0gaHR0cC5OZXdSZXF1ZXN0KCJQT1NUIiwgImh0dHA6Ly8xMjcuMC4wLjE6ODA4MS9jYXRhbG9ndWVzIiwgYnl0ZXMuTmV3QnVmZmVyKHJlcUpTT04pKQoJaWYgZXJyICE9IG5pbCB7CgkJcmV0dXJuIGVycgoJfQoJcmVxLkhlYWRlci5TZXQoIkNvbnRlbnQtVHlwZSIsICJhcHBsaWNhdGlvbi9qc29uIikKCglyZXNwLCBlcnIgOj0gY2xpZW50LkRvKHJlcSkKCWlmIGVyciAhPSBuaWwgewoJCXJldHVybiBlcnIKCX0KCWRlZmVyIHJlc3AuQm9keS5DbG9zZSgpCgoJcmV0dXJuIG5pbAp9Cg==</text>
+        <text encoding="base64">CQljaWQgOj0gJmMuQ2F0YWxvZ3VlSUQK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -892,7 +891,6 @@
         <entry>fmt</entry>
       </history-search>
       <history-cmd>
-        <entry>noh</entry>
         <entry>70</entry>
         <entry>34</entry>
         <entry>38</entry>
@@ -911,6 +909,7 @@
         <entry>qa</entry>
         <entry>q</entry>
         <entry>'s,'ed</entry>
+        <entry>14,42d</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
