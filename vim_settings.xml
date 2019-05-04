@@ -81,12 +81,12 @@
         <mark key="^" line="10" column="18" />
         <mark key="." line="10" column="18" />
       </file>
-      <file name="$USER_HOME$/.ghq/github.com/INL-Catalogue/CatalogueHTTPClient/client.go" timestamp="1556867564652">
+      <file name="$USER_HOME$/.ghq/github.com/INL-Catalogue/CatalogueHTTPClient/client.go" timestamp="1556953096950">
         <mark key="'" line="3" column="0" />
-        <mark key="[" line="28" column="38" />
-        <mark key="]" line="29" column="28" />
-        <mark key="." line="29" column="28" />
-        <mark key="^" line="29" column="28" />
+        <mark key="[" line="65" column="32" />
+        <mark key="]" line="66" column="21" />
+        <mark key="." line="66" column="21" />
+        <mark key="^" line="66" column="21" />
       </file>
       <file name="$USER_HOME$/go/src/github.com/INL-Catalogue/GraphManagerHttp/src/domain/catalogue.go" timestamp="1553320799819">
         <mark key="'" line="12" column="0" />
@@ -666,7 +666,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">CQlmbXQuUHJpbnRsbihieXRlcy5OZXdCdWZmZXIoanNvblN0cikpCg==</text>
+        <text encoding="base64">CQkJCg==</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -798,37 +798,37 @@
         <text encoding="base64">VVNFIGNhdGFsb2d1ZV9zZXJ2ZXI7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQlmbXQuUHJpbnRsbihieXRlcy5OZXdCdWZmZXIoanNvblN0cikpCg==</text>
+        <text encoding="base64">CQkJCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CXJlcVN0IDo9IG1lcXVlc3R7Q2F0YWxvZ3VlczogW11kb21haW4uQ2F0YWxvZ3Vle2NhdGFsb2d1ZX19CgoJcmVxSlNPTiwgZXJyIDo9IGpzb24uTWFyc2hhbChyZXFTdCkKCWlmIGVyciAhPSBuaWwgewoJCWxvZy5GYXRhbChlcnIuRXJyb3IoKSkKCX0KCglyZXEsIGVyciA6PSBodHRwLk5ld1JlcXVlc3QoIlBPU1QiLCAiaHR0cDovLzEyNy4wLjAuMTo4MDgxL2NhdGFsb2d1ZXMiLCBieXRlcy5OZXdCdWZmZXIocmVxSlNPTikpCglpZiBlcnIgIT0gbmlsIHsKCQlsb2cuRmF0YWwoZXJyLkVycm9yKCkpCgl9CglyZXEuSGVhZGVyLlNldCgiQ29udGVudC1UeXBlIiwgImFwcGxpY2F0aW9uL2pzb24iKQoKCWNsaWVudCA6PSAmaHR0cC5DbGllbnR7fQoJcmVzcCwgZXJyIDo9IGNsaWVudC5EbyhyZXEpCglpZiBlcnIgIT0gbmlsIHsKCQlsb2cuRmF0YWwoZXJyKQoJfQoJZGVmZXIgcmVzcC5Cb2R5LkNsb3NlKCkK</text>
+        <text encoding="base64">CQkJCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">CWZtdC5QcmludGxuKHJlcXVlc3QuTmVpZ2hib3JzKQo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">CWZtdC5QcmludGxuKHIuQm9keSkK</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">CQlmbXQuUHJpbnRsbihieXRlcy5OZXdCdWZmZXIoanNvblN0cikpCg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">CXJlcVN0IDo9IG1lcXVlc3R7Q2F0YWxvZ3VlczogW11kb21haW4uQ2F0YWxvZ3Vle2NhdGFsb2d1ZX19CgoJcmVxSlNPTiwgZXJyIDo9IGpzb24uTWFyc2hhbChyZXFTdCkKCWlmIGVyciAhPSBuaWwgewoJCWxvZy5GYXRhbChlcnIuRXJyb3IoKSkKCX0KCglyZXEsIGVyciA6PSBodHRwLk5ld1JlcXVlc3QoIlBPU1QiLCAiaHR0cDovLzEyNy4wLjAuMTo4MDgxL2NhdGFsb2d1ZXMiLCBieXRlcy5OZXdCdWZmZXIocmVxSlNPTikpCglpZiBlcnIgIT0gbmlsIHsKCQlsb2cuRmF0YWwoZXJyLkVycm9yKCkpCgl9CglyZXEuSGVhZGVyLlNldCgiQ29udGVudC1UeXBlIiwgImFwcGxpY2F0aW9uL2pzb24iKQoKCWNsaWVudCA6PSAmaHR0cC5DbGllbnR7fQoJcmVzcCwgZXJyIDo9IGNsaWVudC5EbyhyZXEpCglpZiBlcnIgIT0gbmlsIHsKCQlsb2cuRmF0YWwoZXJyKQoJfQoJZGVmZXIgcmVzcC5Cb2R5LkNsb3NlKCkK</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">CWZtdC5QcmludGxuKHJlcXVlc3QuTmVpZ2hib3JzKQo=</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">CXJlcUJvZHkgOj0gYnl0ZXMuTmV3QnVmZmVyKHJlcUpTT04pCgo=</text>
+        <text encoding="base64">CWZtdC5QcmludGxuKHIuQm9keSkK</text>
       </register>
       <register name="w" type="4">
         <text>www</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQkJZm10LlAK</text>
+        <text encoding="base64">CQlmbXQuUHJpbnRsbihieXRlcy5OZXdCdWZmZXIoanNvblN0cikpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CWZtdC5QcmludGxuKHN0cmluZyhyZXFKU09OKSkK</text>
+        <text encoding="base64">CXJlcUJvZHkgOj0gYnl0ZXMuTmV3QnVmZmVyKHJlcUpTT04pCgo=</text>
       </register>
       <register name=":" type="4">
         <text>qa</text>
