@@ -225,10 +225,10 @@
         <mark key="." line="107" column="0" />
       </file>
       <file name="$USER_HOME$/.ghq/github.com/INL-Catalogue/CatalogueHTTPClient/domain/catalogue.go" timestamp="1556975728666">
-        <mark key="[" line="14" column="5" />
-        <mark key="]" line="15" column="13" />
-        <mark key="." line="15" column="13" />
-        <mark key="^" line="15" column="13" />
+        <mark key="[" line="12" column="5" />
+        <mark key="]" line="13" column="13" />
+        <mark key="." line="13" column="13" />
+        <mark key="^" line="13" column="13" />
       </file>
       <file name="$USER_HOME$/go/src/github.com/INL-Catalogue/CatalogueServerHttp/src/model/edge.go" timestamp="1548295419717">
         <mark key="'" line="5" column="0" />
