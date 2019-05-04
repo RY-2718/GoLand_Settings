@@ -81,12 +81,12 @@
         <mark key="^" line="10" column="18" />
         <mark key="." line="10" column="18" />
       </file>
-      <file name="$USER_HOME$/.ghq/github.com/INL-Catalogue/CatalogueHTTPClient/client.go" timestamp="1556953752555">
+      <file name="$USER_HOME$/.ghq/github.com/INL-Catalogue/CatalogueHTTPClient/client.go" timestamp="1556955016963">
         <mark key="'" line="50" column="0" />
-        <mark key="[" line="67" column="25" />
-        <mark key="]" line="67" column="26" />
-        <mark key="^" line="67" column="26" />
-        <mark key="." line="67" column="26" />
+        <mark key="[" line="48" column="35" />
+        <mark key="]" line="48" column="37" />
+        <mark key="^" line="48" column="37" />
+        <mark key="." line="48" column="37" />
       </file>
       <file name="$USER_HOME$/go/src/github.com/INL-Catalogue/GraphManagerHttp/src/domain/catalogue.go" timestamp="1553320799819">
         <mark key="'" line="12" column="0" />
@@ -665,8 +665,8 @@
       <jump line="64" column="0" filename="$USER_HOME$/.ghq/github.com/INL-Catalogue/CatalogueHTTPClient/client.go" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">CWNsaWVudCA6PSAmaHR0cC5DbGllbnR7fQoJY2F0YWxvZ3VlIDo9IGRvbWFpbi5DYXRhbG9ndWV7fQoKCWZvciBpIDo9IDE7IGkgPCAyOyBpKysgewoJCXNyYyA6PSBkb21haW4uTm9kZUlEe1NlcnZlcklEOiAxLCBPd25lcklEOiAxLCBMb2NhbElEOiB1aW50MzIoaSksIFZlcnNpb25JRDogMH0KCQlkc3QgOj0gZG9tYWluLk5vZGVJRHtTZXJ2ZXJJRDogMSwgT3duZXJJRDogMSwgTG9jYWxJRDogdWludDMyKGkgKyAxKSwgVmVyc2lvbklEOiAwfQoJCWUgOj0gZG9tYWluLkVkZ2V7U3JjOiBzcmMsIERzdDogZHN0fQoJCWNhdGFsb2d1ZS5FZGdlcyA9IGFwcGVuZChjYXRhbG9ndWUuRWRnZXMsIGUpCgl9CgoJY2F0YWxvZ3VlcyA6PSBkb21haW4uQ2F0YWxvZ3Vlc3tjYXRhbG9ndWV9CgoJaWYgZXJyIDo9IFNlbmQoY2F0YWxvZ3VlcywgY2xpZW50KTsgZXJyICE9IG5pbCB7CgkJbG9nLkZhdGFsKGVyci5FcnJvcigpKQoJfQoKCXJldHVybgo=</text>
+      <register name="&quot;" type="4">
+        <text>1e6</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -789,7 +789,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>src</text>
+        <text>1e6</text>
       </register>
       <register name="/" type="4">
         <text>fmt</text>
