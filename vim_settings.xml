@@ -54,12 +54,12 @@
         <mark key="." line="29" column="52" />
         <mark key="^" line="29" column="52" />
       </file>
-      <file name="$USER_HOME$/.ghq/github.com/INL-Catalogue/CatalogueHTTPClient/domain/node.go" timestamp="1556978648055">
-        <mark key="'" line="18" column="18" />
-        <mark key="[" line="83" column="24" />
-        <mark key="]" line="83" column="23" />
-        <mark key="^" line="83" column="23" />
-        <mark key="." line="83" column="23" />
+      <file name="$USER_HOME$/.ghq/github.com/INL-Catalogue/CatalogueHTTPClient/domain/node.go" timestamp="1557038560315">
+        <mark key="'" line="78" column="0" />
+        <mark key="[" line="120" column="5" />
+        <mark key="]" line="121" column="0" />
+        <mark key="." line="121" column="0" />
+        <mark key="^" line="121" column="0" />
       </file>
       <file name="$USER_HOME$/go/src/github.com/INL-Catalogue/CatalogueServerHttp/src/usecase/catalogue_interactor.go" timestamp="1555843545856">
         <mark key="s" line="34" column="18" />
@@ -587,8 +587,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="55" column="26" filename="$USER_HOME$/go/src/github.com/INL-Catalogue/CatalogueServerHttp/src/interface/service/graph_manager.go" />
-      <jump line="80" column="22" filename="$USER_HOME$/go/src/github.com/INL-Catalogue/CatalogueServerHttp/src/interface/service/graph_manager.go" />
       <jump line="102" column="0" filename="$USER_HOME$/go/src/github.com/INL-Catalogue/CatalogueServerHttp/src/interface/service/graph_manager.go" />
       <jump line="68" column="0" filename="$USER_HOME$/go/src/github.com/INL-Catalogue/CatalogueServerHttp/src/interface/service/graph_manager.go" />
       <jump line="20" column="0" filename="$USER_HOME$/go/src/github.com/INL-Catalogue/CatalogueServerHttp/src/interface/service/graph_manager.go" />
@@ -687,10 +685,12 @@
       <jump line="79" column="0" filename="$USER_HOME$/.ghq/github.com/INL-Catalogue/CatalogueHTTPClient/domain/node.go" />
       <jump line="11" column="5" filename="$USER_HOME$/.ghq/github.com/INL-Catalogue/CatalogueHTTPClient/domain/node.go" />
       <jump line="18" column="18" filename="$USER_HOME$/.ghq/github.com/INL-Catalogue/CatalogueHTTPClient/domain/node.go" />
+      <jump line="109" column="26" filename="$USER_HOME$/.ghq/github.com/INL-Catalogue/CatalogueHTTPClient/domain/node.go" />
+      <jump line="78" column="0" filename="$USER_HOME$/.ghq/github.com/INL-Catalogue/CatalogueHTTPClient/domain/node.go" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>.Edges</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -822,37 +822,37 @@
         <text encoding="base64">CWlmIGVyciA6PSBiaW5hcnkuV3JpdGUoYnVmLCBieXRlT3JkZXIsIG4uT3duZXJJRCk7IGVyciAhPSBuaWwgewoJCXJldHVybiBuaWwsIGVycgoJfQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CmZ1bmMgKGMgKkNhdGFsb2d1ZSkgVG9CaW5hcnkoYnl0ZU9yZGVyIGJpbmFyeS5CeXRlT3JkZXIpIChbXWJ5dGUsIGVycm9yKSB7CglidWYgOj0gbmV3KGJ5dGVzLkJ1ZmZlcikKCWZvciBfLCBlIDo9IHJhbmdlIGMuRWRnZXMgewoJCWlmIGVyciA6PSBiaW5hcnkuV3JpdGUoYnVmLCBieXRlT3JkZXIsIGUuV2VsbEtub3duKTsgZXJyICE9IG5pbCB7CgkJCXJldHVybiBuaWwsIGVycgoJCX0KCQlpZiBlcnIgOj0gYmluYXJ5LldyaXRlKGJ1ZiwgYnl0ZU9yZGVyLCBlLlVzZXJMb2NhbCk7IGVyciAhPSBuaWwgewoJCQlyZXR1cm4gbmlsLCBlcnIKCQl9CgoJCXNyY0J5dGVzLCBlcnIgOj0gZS5TcmMuVG9CaW5hcnkoYnl0ZU9yZGVyKQoJCWlmIGVyciAhPSBuaWwgewoJCQlyZXR1cm4gbmlsLCBlcnIKCQl9CgkJaWYgXywgZXJyIDo9IGJ1Zi5Xcml0ZShzcmNCeXRlcyk7IGVyciAhPSBuaWwgewoJCQlyZXR1cm4gbmlsLCBlcnIKCQl9CgoJCWRzdEJ5dGVzLCBlcnIgOj0gZS5Ec3QuVG9CaW5hcnkoYnl0ZU9yZGVyKQoJCWlmIGVyciAhPSBuaWwgewoJCQlyZXR1cm4gbmlsLCBlcnIKCQl9CgkJaWYgXywgZXJyIDo9IGJ1Zi5Xcml0ZShkc3RCeXRlcyk7IGVyciAhPSBuaWwgewoJCQlyZXR1cm4gbmlsLCBlcnIKCQl9Cgl9CglyZXR1cm4gYnVmLkJ5dGVzKCksIG5pbAp9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CWlmIGVyciAhPSBuaWwgewoJCXJldHVybiBuaWwsIGVycgoJfQo=</text>
+        <text encoding="base64">CQlpZiBlcnIgOj0gYmluYXJ5LldyaXRlKGJ1ZiwgYnl0ZU9yZGVyLCBlLldlbGxLbm93bik7IGVyciAhPSBuaWwgewoJCQlyZXR1cm4gbmlsLCBlcnIKCQl9CgkJaWYgZXJyIDo9IGJpbmFyeS5Xcml0ZShidWYsIGJ5dGVPcmRlciwgZS5Vc2VyTG9jYWwpOyBlcnIgIT0gbmlsIHsKCQkJcmV0dXJuIG5pbCwgZXJyCgkJfQoKCQlzcmNCeXRlcywgZXJyIDo9IGUuU3JjLlRvQmluYXJ5KGJ5dGVPcmRlcikKCQlpZiBlcnIgIT0gbmlsIHsKCQkJcmV0dXJuIG5pbCwgZXJyCgkJfQoJCWlmIF8sIGVyciA6PSBidWYuV3JpdGUoc3JjQnl0ZXMpOyBlcnIgIT0gbmlsIHsKCQkJcmV0dXJuIG5pbCwgZXJyCgkJfQoKCQlkc3RCeXRlcywgZXJyIDo9IGUuRHN0LlRvQmluYXJ5KGJ5dGVPcmRlcikKCQlpZiBlcnIgIT0gbmlsIHsKCQkJcmV0dXJuIG5pbCwgZXJyCgkJfQoJCWlmIF8sIGVyciA6PSBidWYuV3JpdGUoZHN0Qnl0ZXMpOyBlcnIgIT0gbmlsIHsKCQkJcmV0dXJuIG5pbCwgZXJyCgkJfQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CWNhdEJ5dGVzLCBlcnIgOj0gYy5DYXRhbG9ndWVJRC5Ub0JpbmFyeShieXRlT3JkZXIpCg==</text>
+        <text encoding="base64">CmZ1bmMgKGMgKkNhdGFsb2d1ZSkgVG9CaW5hcnkoYnl0ZU9yZGVyIGJpbmFyeS5CeXRlT3JkZXIpIChbXWJ5dGUsIGVycm9yKSB7CglidWYgOj0gbmV3KGJ5dGVzLkJ1ZmZlcikKCWZvciBfLCBlIDo9IHJhbmdlIGMuRWRnZXMgewoJCWlmIGVyciA6PSBiaW5hcnkuV3JpdGUoYnVmLCBieXRlT3JkZXIsIGUuV2VsbEtub3duKTsgZXJyICE9IG5pbCB7CgkJCXJldHVybiBuaWwsIGVycgoJCX0KCQlpZiBlcnIgOj0gYmluYXJ5LldyaXRlKGJ1ZiwgYnl0ZU9yZGVyLCBlLlVzZXJMb2NhbCk7IGVyciAhPSBuaWwgewoJCQlyZXR1cm4gbmlsLCBlcnIKCQl9CgoJCXNyY0J5dGVzLCBlcnIgOj0gZS5TcmMuVG9CaW5hcnkoYnl0ZU9yZGVyKQoJCWlmIGVyciAhPSBuaWwgewoJCQlyZXR1cm4gbmlsLCBlcnIKCQl9CgkJaWYgXywgZXJyIDo9IGJ1Zi5Xcml0ZShzcmNCeXRlcyk7IGVyciAhPSBuaWwgewoJCQlyZXR1cm4gbmlsLCBlcnIKCQl9CgoJCWRzdEJ5dGVzLCBlcnIgOj0gZS5Ec3QuVG9CaW5hcnkoYnl0ZU9yZGVyKQoJCWlmIGVyciAhPSBuaWwgewoJCQlyZXR1cm4gbmlsLCBlcnIKCQl9CgkJaWYgXywgZXJyIDo9IGJ1Zi5Xcml0ZShkc3RCeXRlcyk7IGVyciAhPSBuaWwgewoJCQlyZXR1cm4gbmlsLCBlcnIKCQl9Cgl9CglyZXR1cm4gYnVmLkJ5dGVzKCksIG5pbAp9Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQlpZiBlcnIgOj0gYmluYXJ5LldyaXRlKHJlcywgYnl0ZU9yZGVyLCBjYXRCeXRlcyk7IGVyciAhPSBuaWwgewoJCQlyZXR1cm4gbmlsLCBlcnIKCQl9Cgo=</text>
+        <text encoding="base64">CWlmIGVyciAhPSBuaWwgewoJCXJldHVybiBuaWwsIGVycgoJfQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CQkJcmV0dXIsIG5pbAo=</text>
+        <text encoding="base64">CWNhdEJ5dGVzLCBlcnIgOj0gYy5DYXRhbG9ndWVJRC5Ub0JpbmFyeShieXRlT3JkZXIpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CQlpZgo=</text>
+        <text encoding="base64">CQlpZiBlcnIgOj0gYmluYXJ5LldyaXRlKHJlcywgYnl0ZU9yZGVyLCBjYXRCeXRlcyk7IGVyciAhPSBuaWwgewoJCQlyZXR1cm4gbmlsLCBlcnIKCQl9Cgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQljYXRCeXRlcywgZXJyIDo9IGMuQ2F0YWxvZ3VlSUQuVG9CaW5hcnkoYnl0ZU9yZGVyKQo=</text>
+        <text encoding="base64">CQkJcmV0dXIsIG5pbAo=</text>
       </register>
       <register name="w" type="4">
         <text>www</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQljYXRCeXRlcywgZXJyIDo9IGMuQ2F0YWxvZ3VlSUQuVG9CaW5hcnkoYnl0ZU9yZGVyKQo=</text>
+        <text encoding="base64">CQlpZgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQljaWQgOj0gJmMuQ2F0YWxvZ3VlSUQK</text>
+        <text encoding="base64">CQljYXRCeXRlcywgZXJyIDo9IGMuQ2F0YWxvZ3VlSUQuVG9CaW5hcnkoYnl0ZU9yZGVyKQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -891,8 +891,6 @@
         <entry>fmt</entry>
       </history-search>
       <history-cmd>
-        <entry>70</entry>
-        <entry>34</entry>
         <entry>38</entry>
         <entry>16</entry>
         <entry>100</entry>
@@ -908,8 +906,10 @@
         <entry>26,44d</entry>
         <entry>qa</entry>
         <entry>q</entry>
-        <entry>'s,'ed</entry>
         <entry>14,42d</entry>
+        <entry>'s,'ed</entry>
+        <entry>82</entry>
+        <entry>78</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
