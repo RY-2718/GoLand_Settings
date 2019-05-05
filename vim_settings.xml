@@ -87,8 +87,11 @@
         <mark key="^" line="10" column="18" />
         <mark key="." line="10" column="18" />
       </file>
-      <file name="$USER_HOME$/.ghq/github.com/INL-Catalogue/CatalogueHTTPClient/client.go" timestamp="1557052742951">
+      <file name="$USER_HOME$/.ghq/github.com/INL-Catalogue/CatalogueHTTPClient/client.go" timestamp="1557053407856">
         <mark key="'" line="12" column="65" />
+        <mark key="[" line="59" column="0" />
+        <mark key="]" line="59" column="0" />
+        <mark key="." line="59" column="0" />
       </file>
       <file name="$USER_HOME$/go/src/github.com/INL-Catalogue/GraphManagerHttp/src/domain/catalogue.go" timestamp="1553320799819">
         <mark key="'" line="12" column="0" />
@@ -707,8 +710,8 @@
       <jump line="11" column="65" filename="$USER_HOME$/.ghq/github.com/INL-Catalogue/CatalogueHTTPClient/client.go" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>男</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">CQlkZWZlciBjb25uLmh0dHAuY2wK</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -840,7 +843,7 @@
         <text encoding="base64">CQljb2RlID0gUmVxdWVzdFJldHJpZXZlR3JhcGgK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQkK</text>
+        <text encoding="base64">CQlkZWZlciBjb25uLmh0dHAuY2wK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -851,19 +854,19 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CQkJaWYgZXJyIDo9IGNhdEJpbmFyeS5Xcml0ZVRvQ1MoY2F0YWxvZ3VlcywgY29ubi50Y3ApOyBlcnIgIT0gbmlsIHsKCQkJCXJldHVybiBlcnIKCQkJfQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQlpZiBlcnIgOj0gY2F0SFRUUC5Xcml0ZVRvQ1MoY2F0YWxvZ3VlcywgImh0dHA6Ly8xMjcuMC4wLjE6ODA4MS9jYXRhbG9ndWVzIiwgY2xpZW50KTsgZXJyICE9IG5pbCB7CgkJCXJldHVybiBlcnIKCQl9Cg==</text>
+        <text encoding="base64">CQkJaWYgZXJyIDo9IGNhdEJpbmFyeS5Xcml0ZVRvQ1MoY2F0YWxvZ3VlcywgY29ubi50Y3ApOyBlcnIgIT0gbmlsIHsKCQkJCXJldHVybiBlcnIKCQkJfQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CWNsaWVudCA6PSAmaHR0cC5DbGllbnR7fQo=</text>
+        <text encoding="base64">CQlpZiBlcnIgOj0gY2F0SFRUUC5Xcml0ZVRvQ1MoY2F0YWxvZ3VlcywgImh0dHA6Ly8xMjcuMC4wLjE6ODA4MS9jYXRhbG9ndWVzIiwgY2xpZW50KTsgZXJyICE9IG5pbCB7CgkJCXJldHVybiBlcnIKCQl9Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CQo=</text>
+        <text encoding="base64">CWNsaWVudCA6PSAmaHR0cC5DbGllbnR7fQo=</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">CQo=</text>
@@ -875,7 +878,7 @@
         <text encoding="base64">CQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CXZhciBjb2RlIHVpbnQ4Cglzd2l0Y2ggbWV0aG9kIHsKCWNhc2UgV3JpdGVUb0NTOgoJCWNvZGUgPSBSZXF1ZXN0UmVhZENhdGFsb2d1ZQoJY2FzZSBSZWFkRnJvbUNTOgoJCWNvZGUgPSBSZXF1ZXN0V3JpdGVDYXRhbG9ndWUKCWNhc2UgV3JpdGVUb0dNOgoJCWNvZGUgPSBSZXF1ZXN0V3JpdGVHcmFwaAoJY2FzZSBSZXRyaWV2ZUZyb21HTToKCQljb2RlID0gUmVxdWVzdFJldHJpZXZlR3JhcGgKCWNhc2UgTG9va3VwRnJvbUdNOgoJCWNvZGUgPSBSZXF1ZXN0TG9va3VwQ2F0YWxvZ3VlCgl9Cg==</text>
+        <text encoding="base64">CQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
