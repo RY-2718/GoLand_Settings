@@ -522,6 +522,12 @@
         <mark key="^" line="12" column="35" />
         <mark key="." line="7" column="0" />
       </file>
+      <file name="$USER_HOME$/.ghq/github.com/INL-Catalogue/CatalogueHTTPClient/domain/node_test.go" timestamp="1557039911394">
+        <mark key="[" line="59" column="28" />
+        <mark key="]" line="59" column="37" />
+        <mark key="." line="59" column="37" />
+        <mark key="^" line="59" column="37" />
+      </file>
       <file name="$USER_HOME$/go/src/github.com/INL-Catalogue/CatalogueServerHttp/src/interface/controller/sample_controller.go" timestamp="1549786238972">
         <mark key="[" line="7" column="6" />
         <mark key="]" line="7" column="5" />
@@ -690,7 +696,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CWV4cGVjdGVkIDo9IFtdYnl0ZXsxLDAsMCwwLDEsMCwwLDAsMSwwLDAsMCwxLDAsMCwwLH0sCg==</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -819,13 +825,18 @@
         <text>fmt</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">CWlmIGVyciA6PSBiaW5hcnkuV3JpdGUoYnVmLCBieXRlT3JkZXIsIG4uT3duZXJJRCk7IGVyciAhPSBuaWwgewoJCXJldHVybiBuaWwsIGVycgoJfQo=</text>
+        <text encoding="base64">CWV4cGVjdGVkIDo9IFtdYnl0ZXsxLDAsMCwwLDEsMCwwLDAsMSwwLDAsMCwxLDAsMCwwLH0sCg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
-        <text />
+        <keys>
+          <key char="108" code="0" mods="0" />
+          <key char="97" code="0" mods="0" />
+          <key char="44" code="0" mods="0" />
+          <key char="65535" code="27" mods="0" />
+        </keys>
       </register>
       <register name="2" type="2">
         <text encoding="base64">CQlpZiBlcnIgOj0gYmluYXJ5LldyaXRlKGJ1ZiwgYnl0ZU9yZGVyLCBlLldlbGxLbm93bik7IGVyciAhPSBuaWwgewoJCQlyZXR1cm4gbmlsLCBlcnIKCQl9CgkJaWYgZXJyIDo9IGJpbmFyeS5Xcml0ZShidWYsIGJ5dGVPcmRlciwgZS5Vc2VyTG9jYWwpOyBlcnIgIT0gbmlsIHsKCQkJcmV0dXJuIG5pbCwgZXJyCgkJfQoKCQlzcmNCeXRlcywgZXJyIDo9IGUuU3JjLlRvQmluYXJ5KGJ5dGVPcmRlcikKCQlpZiBlcnIgIT0gbmlsIHsKCQkJcmV0dXJuIG5pbCwgZXJyCgkJfQoJCWlmIF8sIGVyciA6PSBidWYuV3JpdGUoc3JjQnl0ZXMpOyBlcnIgIT0gbmlsIHsKCQkJcmV0dXJuIG5pbCwgZXJyCgkJfQoKCQlkc3RCeXRlcywgZXJyIDo9IGUuRHN0LlRvQmluYXJ5KGJ5dGVPcmRlcikKCQlpZiBlcnIgIT0gbmlsIHsKCQkJcmV0dXJuIG5pbCwgZXJyCgkJfQoJCWlmIF8sIGVyciA6PSBidWYuV3JpdGUoZHN0Qnl0ZXMpOyBlcnIgIT0gbmlsIHsKCQkJcmV0dXJuIG5pbCwgZXJyCgkJfQo=</text>
