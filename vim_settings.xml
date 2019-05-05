@@ -87,12 +87,8 @@
         <mark key="^" line="10" column="18" />
         <mark key="." line="10" column="18" />
       </file>
-      <file name="$USER_HOME$/.ghq/github.com/INL-Catalogue/CatalogueHTTPClient/client.go" timestamp="1557051200610">
+      <file name="$USER_HOME$/.ghq/github.com/INL-Catalogue/CatalogueHTTPClient/client.go" timestamp="1557052742951">
         <mark key="'" line="12" column="65" />
-        <mark key="[" line="49" column="45" />
-        <mark key="]" line="49" column="56" />
-        <mark key="." line="49" column="56" />
-        <mark key="^" line="49" column="56" />
       </file>
       <file name="$USER_HOME$/go/src/github.com/INL-Catalogue/GraphManagerHttp/src/domain/catalogue.go" timestamp="1553320799819">
         <mark key="'" line="12" column="0" />
@@ -712,7 +708,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>ProtocolHTTP</text>
+        <text>男</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -835,7 +831,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>ProtocolHTTP</text>
+        <text>男</text>
       </register>
       <register name="/" type="4">
         <text>byteOrder</text>
