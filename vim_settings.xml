@@ -3,11 +3,11 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/go/src/github.com/INL-Catalogue/GraphManagerHttp/src/infrastructure/router.go" timestamp="1557056632276">
-        <mark key="[" line="24" column="5" />
-        <mark key="]" line="24" column="9" />
-        <mark key="." line="24" column="9" />
-        <mark key="^" line="24" column="9" />
+      <file name="$USER_HOME$/go/src/github.com/INL-Catalogue/GraphManagerHttp/src/infrastructure/router.go" timestamp="1557119944187">
+        <mark key="[" line="24" column="36" />
+        <mark key="]" line="24" column="34" />
+        <mark key="." line="24" column="34" />
+        <mark key="^" line="24" column="34" />
       </file>
       <file name="$USER_HOME$/go/src/github.com/INL-Catalogue/CatalogueServerHttp/src/infrastructure/sql_handler.go" timestamp="1550151176255">
         <mark key="'" line="31" column="0" />
@@ -68,18 +68,26 @@
         <mark key="." line="170" column="24" />
         <mark key="^" line="170" column="24" />
       </file>
+      <file name="$USER_HOME$/go/src/github.com/INL-Catalogue/CatalogueServerHttp/src/usecase/catalogue_interactor.go" timestamp="1555843545856">
+        <mark key="s" line="34" column="18" />
+        <mark key="e" line="37" column="4" />
+        <mark key="'" line="31" column="17" />
+        <mark key="[" line="39" column="0" />
+        <mark key="]" line="42" column="5" />
+        <mark key="." line="39" column="0" />
+      </file>
       <file name="$USER_HOME$/go/src/github.com/INL-Catalogue/CatalogueServerHttp/docker-compose.yml" timestamp="1555864623304">
         <mark key="[" line="10" column="14" />
         <mark key="]" line="10" column="18" />
         <mark key="." line="10" column="18" />
         <mark key="^" line="10" column="18" />
       </file>
-      <file name="$USER_HOME$/go/src/github.com/INL-Catalogue/CatalogueServerHttp/src/infrastructure/router.go" timestamp="1557056649207">
+      <file name="$USER_HOME$/go/src/github.com/INL-Catalogue/CatalogueServerHttp/src/infrastructure/router.go" timestamp="1557119934836">
         <mark key="'" line="23" column="55" />
-        <mark key="[" line="24" column="5" />
-        <mark key="]" line="24" column="9" />
-        <mark key="." line="24" column="9" />
-        <mark key="^" line="24" column="9" />
+        <mark key="[" line="24" column="36" />
+        <mark key="]" line="24" column="34" />
+        <mark key="." line="24" column="34" />
+        <mark key="^" line="24" column="34" />
       </file>
       <file name="$USER_HOME$/go/src/github.com/INL-Catalogue/GraphManagerHttp/docker-compose.yml" timestamp="1555867434920">
         <mark key="[" line="10" column="14" />
@@ -180,10 +188,13 @@
         <mark key="^" line="7" column="40" />
         <mark key="." line="7" column="40" />
       </file>
-      <file name="$USER_HOME$/go/src/github.com/INL-Catalogue/GraphManagerHttp/src/interface/controller/edges_controller.go" timestamp="1555863885990">
+      <file name="$USER_HOME$/go/src/github.com/INL-Catalogue/GraphManagerHttp/src/interface/controller/edges_controller.go" timestamp="1557119484865">
         <mark key="s" line="74" column="0" />
         <mark key="e" line="78" column="0" />
         <mark key="'" line="74" column="7" />
+        <mark key="[" line="64" column="0" />
+        <mark key="]" line="64" column="0" />
+        <mark key="." line="64" column="0" />
       </file>
       <file name="$USER_HOME$/go/src/github.com/INL-Catalogue/CatalogueServerHttp/sql/truncate.sql" timestamp="1555864573026">
         <mark key="[" line="1" column="0" />
@@ -666,8 +677,8 @@
       <jump line="77" column="93" filename="$USER_HOME$/.ghq/github.com/INL-Catalogue/CatalogueHTTPClient/client.go" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>:</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">CXIuQm9keS5yZQo=</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -799,7 +810,7 @@
         <text encoding="base64">CQljb2RlID0gUmVxdWVzdFJldHJpZXZlR3JhcGgK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CXZhciBjb25uIGludGVyZmFjZXt9Cg==</text>
+        <text encoding="base64">CXIuQm9keS5yZQo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -810,31 +821,31 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CX0K</text>
+        <text encoding="base64">CXZhciBjb25uIGludGVyZmFjZXt9Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CWNhc2UgUHJvdG9jb2xCaW5hcnk6Cg==</text>
+        <text encoding="base64">CX0K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CXZhciBjb25uIGludGVyZmFjZXt9Cglzd2l0Y2ggcCB7CgljYXNlIFByb3RvY29sSFRUUDoK</text>
+        <text encoding="base64">CWNhc2UgUHJvdG9jb2xCaW5hcnk6Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CQljb25uID0gYwo=</text>
+        <text encoding="base64">CXZhciBjb25uIGludGVyZmFjZXt9Cglzd2l0Y2ggcCB7CgljYXNlIFByb3RvY29sSFRUUDoK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">dHlwZSBNeUNvbm4gc3RydWN0IHsKCWh0dHAgKmh0dHAuQ2xpZW50Cgl0Y3AgIG5ldC5Db25uCn0KCg==</text>
+        <text encoding="base64">CQljb25uID0gYwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQo=</text>
+        <text encoding="base64">dHlwZSBNeUNvbm4gc3RydWN0IHsKCWh0dHAgKmh0dHAuQ2xpZW50Cgl0Y3AgIG5ldC5Db25uCn0KCg==</text>
       </register>
       <register name="w" type="4">
         <text>www</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQlkZWZlciBjb25uLmh0dHAuY2wK</text>
+        <text encoding="base64">CQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQkK</text>
+        <text encoding="base64">CQlkZWZlciBjb25uLmh0dHAuY2wK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
