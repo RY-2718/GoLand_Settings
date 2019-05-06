@@ -34,11 +34,11 @@
         <mark key="^" line="19" column="60" />
         <mark key="." line="19" column="61" />
       </file>
-      <file name="$USER_HOME$/.ghq/github.com/INL-Catalogue/CatalogueHTTPClient/http/send.go" timestamp="1557048926171">
-        <mark key="[" line="14" column="5" />
-        <mark key="]" line="14" column="13" />
-        <mark key="." line="14" column="13" />
-        <mark key="^" line="14" column="13" />
+      <file name="$USER_HOME$/.ghq/github.com/INL-Catalogue/CatalogueHTTPClient/http/send.go" timestamp="1557151807756">
+        <mark key="[" line="33" column="5" />
+        <mark key="]" line="35" column="78" />
+        <mark key="." line="35" column="78" />
+        <mark key="^" line="35" column="78" />
       </file>
       <file name="$USER_HOME$/go/src/github.com/CyberAgentHack/hidakkathon201903-ry-2718/go/main.go" timestamp="1551429547028">
         <mark key="[" line="9" column="35" />
@@ -93,12 +93,12 @@
         <mark key="^" line="10" column="18" />
         <mark key="." line="10" column="18" />
       </file>
-      <file name="$USER_HOME$/.ghq/github.com/INL-Catalogue/CatalogueHTTPClient/client.go" timestamp="1557143103893">
-        <mark key="'" line="99" column="0" />
-        <mark key="[" line="84" column="52" />
-        <mark key="]" line="84" column="53" />
-        <mark key="." line="84" column="53" />
-        <mark key="^" line="84" column="53" />
+      <file name="$USER_HOME$/.ghq/github.com/INL-Catalogue/CatalogueHTTPClient/client.go" timestamp="1557152029156">
+        <mark key="'" line="51" column="8" />
+        <mark key="[" line="54" column="74" />
+        <mark key="]" line="54" column="65" />
+        <mark key="^" line="54" column="65" />
+        <mark key="." line="54" column="65" />
       </file>
       <file name="$USER_HOME$/go/src/github.com/INL-Catalogue/GraphManagerHttp/src/domain/catalogue.go" timestamp="1553320799819">
         <mark key="'" line="12" column="0" />
@@ -246,16 +246,18 @@
         <mark key="^" line="1" column="12" />
         <mark key="." line="1" column="12" />
       </file>
-      <file name="$USER_HOME$/go/src/github.com/INL-Catalogue/CatalogueServerHttp/src/interface/service/graph_manager_service.go" timestamp="1556890260503">
-        <mark key="'" line="28" column="0" />
-        <mark key="^" line="26" column="48" />
-      </file>
       <file name="$USER_HOME$/go/src/github.com/INL-Catalogue/CatalogueServerHttp/src/router/edges_router.go" timestamp="1549785389136">
         <mark key="'" line="11" column="24" />
         <mark key="[" line="11" column="28" />
         <mark key="]" line="11" column="30" />
         <mark key="^" line="11" column="30" />
         <mark key="." line="11" column="30" />
+      </file>
+      <file name="$USER_HOME$/go/src/github.com/INL-Catalogue/CatalogueServerHttp/src/interface/service/graph_manager_resolver_test.go" timestamp="1557151018654">
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="17" column="0" />
+        <mark key="." line="33" column="12" />
+        <mark key="^" line="33" column="12" />
       </file>
       <file name="$USER_HOME$/go/src/github.com/CyberAgentHack/hidakkathon201903-ry-2718/go/interface/controller/sample_controller.go" timestamp="1551429139289">
         <mark key="[" line="7" column="59" />
@@ -329,12 +331,12 @@
         <mark key="^" line="5" column="53" />
         <mark key="." line="5" column="53" />
       </file>
-      <file name="$USER_HOME$/go/src/github.com/INL-Catalogue/CatalogueServerHttp/src/server.go" timestamp="1557146031316">
+      <file name="$USER_HOME$/go/src/github.com/INL-Catalogue/CatalogueServerHttp/src/server.go" timestamp="1557150982700">
         <mark key="'" line="33" column="8" />
-        <mark key="[" line="50" column="58" />
-        <mark key="]" line="50" column="77" />
-        <mark key="." line="50" column="77" />
-        <mark key="^" line="50" column="77" />
+        <mark key="[" line="50" column="0" />
+        <mark key="]" line="50" column="98" />
+        <mark key="." line="50" column="0" />
+        <mark key="^" line="48" column="28" />
       </file>
       <file name="$USER_HOME$/go/src/github.com/INL-Catalogue/CatalogueServerHttp/sql/CatalogServer.sql" timestamp="1547490228753">
         <mark key="'" line="29" column="0" />
@@ -415,6 +417,12 @@
         <mark key="^" line="20" column="8" />
         <mark key="." line="20" column="8" />
       </file>
+      <file name="$USER_HOME$/go/src/github.com/INL-Catalogue/CatalogueServerHttp/config/graph_manager.yml" timestamp="1557151045148">
+        <mark key="[" line="8" column="10" />
+        <mark key="]" line="8" column="13" />
+        <mark key="." line="8" column="13" />
+        <mark key="^" line="8" column="13" />
+      </file>
       <file name="$USER_HOME$/.ghq/github.com/INL-Catalogue/CatalogueHTTPClient/binary/scenario.go" timestamp="1557045146937">
         <mark key="[" line="17" column="32" />
         <mark key="]" line="17" column="49" />
@@ -441,11 +449,12 @@
         <mark key="^" line="3" column="0" />
         <mark key="." line="3" column="0" />
       </file>
-      <file name="$USER_HOME$/go/src/github.com/INL-Catalogue/CatalogueServerHttp/src/interface/service/graph_manager_resolver.go" timestamp="1557146904557">
-        <mark key="[" line="37" column="0" />
-        <mark key="]" line="37" column="0" />
-        <mark key="^" line="35" column="35" />
-        <mark key="." line="37" column="0" />
+      <file name="$USER_HOME$/go/src/github.com/INL-Catalogue/CatalogueServerHttp/src/interface/service/graph_manager_resolver.go" timestamp="1557152232280">
+        <mark key="'" line="40" column="0" />
+        <mark key="[" line="44" column="18" />
+        <mark key="]" line="45" column="19" />
+        <mark key="^" line="45" column="19" />
+        <mark key="." line="45" column="19" />
       </file>
       <file name="$USER_HOME$/go/src/github.com/INL-Catalogue/GraphManagerHttp/test/test.sh" timestamp="1552207282708">
         <mark key="[" line="21" column="0" />
@@ -586,21 +595,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="40" column="12" filename="$USER_HOME$/go/src/github.com/INL-Catalogue/CatalogueServerHttp/src/interface/service/graph_manager_service.go" />
-      <jump line="67" column="12" filename="$USER_HOME$/go/src/github.com/INL-Catalogue/CatalogueServerHttp/src/interface/service/graph_manager_service.go" />
-      <jump line="0" column="0" filename="$USER_HOME$/go/src/github.com/INL-Catalogue/CatalogueServerHttp/src/interface/service/graph_manager_service_test.go" />
-      <jump line="28" column="17" filename="$USER_HOME$/go/src/github.com/INL-Catalogue/CatalogueServerHttp/src/usecase/catalogue_interactor.go" />
-      <jump line="21" column="4" filename="$USER_HOME$/go/src/github.com/INL-Catalogue/CatalogueServerHttp/src/interface/service/graph_manager_service.go" />
-      <jump line="36" column="0" filename="$USER_HOME$/go/src/github.com/INL-Catalogue/CatalogueServerHttp/src/interface/controller/catalogues_controller.go" />
-      <jump line="42" column="9" filename="$USER_HOME$/go/src/github.com/INL-Catalogue/GraphManagerHttp/src/interface/controller/edges_controller.go" />
-      <jump line="52" column="10" filename="$USER_HOME$/go/src/github.com/INL-Catalogue/GraphManagerHttp/src/interface/controller/edges_controller.go" />
-      <jump line="34" column="18" filename="$USER_HOME$/go/src/github.com/INL-Catalogue/CatalogueServerHttp/src/interface/controller/catalogues_controller.go" />
-      <jump line="12" column="0" filename="$USER_HOME$/go/src/github.com/INL-Catalogue/GraphManagerHttp/src/domain/catalogue.go" />
-      <jump line="3" column="0" filename="$USER_HOME$/.ghq/github.com/INL-Catalogue/CatalogueHTTPClient/client.go" />
-      <jump line="81" column="4" filename="$USER_HOME$/go/src/github.com/INL-Catalogue/CatalogueServerHttp/src/interface/service/graph_manager_service.go" />
-      <jump line="87" column="0" filename="$USER_HOME$/go/src/github.com/INL-Catalogue/CatalogueServerHttp/src/interface/service/graph_manager_service.go" />
-      <jump line="51" column="8" filename="$USER_HOME$/go/src/github.com/INL-Catalogue/CatalogueServerHttp/src/interface/service/graph_manager_service.go" />
-      <jump line="113" column="0" filename="$USER_HOME$/go/src/github.com/INL-Catalogue/CatalogueServerHttp/src/interface/service/graph_manager_service.go" />
       <jump line="34" column="0" filename="$USER_HOME$/go/src/github.com/INL-Catalogue/GraphManagerHttp/src/interface/database/edge_repository.go" />
       <jump line="35" column="4" filename="$USER_HOME$/go/src/github.com/INL-Catalogue/GraphManagerHttp/src/interface/database/edge_repository.go" />
       <jump line="42" column="7" filename="$USER_HOME$/go/src/github.com/INL-Catalogue/GraphManagerHttp/src/interface/database/edge_repository.go" />
@@ -686,10 +680,25 @@
       <jump line="77" column="93" filename="$USER_HOME$/.ghq/github.com/INL-Catalogue/CatalogueHTTPClient/client.go" />
       <jump line="2" column="3" filename="$USER_HOME$/go/src/github.com/INL-Catalogue/CatalogueServerHttp/src/interface/database/catalogue_repository.go" />
       <jump line="99" column="0" filename="$USER_HOME$/.ghq/github.com/INL-Catalogue/CatalogueHTTPClient/client.go" />
+      <jump line="36" column="0" filename="$USER_HOME$/go/src/github.com/INL-Catalogue/CatalogueServerHttp/src/interface/service/graph_manager_resolver.go" />
+      <jump line="41" column="0" filename="$USER_HOME$/go/src/github.com/INL-Catalogue/CatalogueServerHttp/src/interface/service/graph_manager_resolver.go" />
+      <jump line="97" column="8" filename="$USER_HOME$/.ghq/github.com/INL-Catalogue/CatalogueHTTPClient/client.go" />
+      <jump line="0" column="0" filename="$USER_HOME$/.ghq/github.com/INL-Catalogue/CatalogueHTTPClient/client.go" />
+      <jump line="4" column="5" filename="$USER_HOME$/.ghq/github.com/INL-Catalogue/CatalogueHTTPClient/client.go" />
+      <jump line="12" column="44" filename="$USER_HOME$/.ghq/github.com/INL-Catalogue/CatalogueHTTPClient/client.go" />
+      <jump line="13" column="34" filename="$USER_HOME$/.ghq/github.com/INL-Catalogue/CatalogueHTTPClient/client.go" />
+      <jump line="14" column="42" filename="$USER_HOME$/.ghq/github.com/INL-Catalogue/CatalogueHTTPClient/client.go" />
+      <jump line="26" column="37" filename="$USER_HOME$/.ghq/github.com/INL-Catalogue/CatalogueHTTPClient/client.go" />
+      <jump line="44" column="26" filename="$USER_HOME$/.ghq/github.com/INL-Catalogue/CatalogueHTTPClient/client.go" />
+      <jump line="49" column="17" filename="$USER_HOME$/.ghq/github.com/INL-Catalogue/CatalogueHTTPClient/client.go" />
+      <jump line="67" column="21" filename="$USER_HOME$/.ghq/github.com/INL-Catalogue/CatalogueHTTPClient/client.go" />
+      <jump line="45" column="8" filename="$USER_HOME$/.ghq/github.com/INL-Catalogue/CatalogueHTTPClient/client.go" />
+      <jump line="31" column="8" filename="$USER_HOME$/.ghq/github.com/INL-Catalogue/CatalogueHTTPClient/client.go" />
+      <jump line="41" column="8" filename="$USER_HOME$/.ghq/github.com/INL-Catalogue/CatalogueHTTPClient/client.go" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">CWlmIGVyciAhPSBuaWwgewoJCS8vIOODleOCoeOCpOODq+OCkuiqreOBv+i+vOOCgeOBquOBi+OBo+OBn+WgtOWQiOatu+OBrAoJCXJldHVybiBuaWwsIGVycgoJfQo=</text>
+      <register name="&quot;" type="4">
+        <text>fmt</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -812,16 +821,16 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>buf</text>
+        <text>fmt</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxGaWxlR3JhcGhNYW5hZ2VyUmVzb2x2ZXJcPg==</text>
+        <text>log\.</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">CQlyZXR1cm4gbmlsLCBlcnIK</text>
+        <text encoding="base64">CQkJYmVnaW4gPSB0aW1lLk5vdygpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CWlmIGVyciAhPSBuaWwgewoJCS8vIOODleOCoeOCpOODq+OCkuiqreOBv+i+vOOCgeOBquOBi+OBo+OBn+WgtOWQiOatu+OBrAoJCXJldHVybiBuaWwsIGVycgoJfQo=</text>
+        <text encoding="base64">CQliZWdpbiA9IHRpbWUuTm93KCkK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -832,43 +841,43 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CWJ1ZiwgZXJyIDo9IGlvdXRpbC5SZWFkRmlsZShmaWxlUGF0aCkK</text>
+        <text encoding="base64">LS0tCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CQlzZXJ2aWNlLlN0YXRpY0dyYXBoTWFuYWdlclJlc29sdmVye0RvbWFpbjogImh0dHA6Ly9sb2NhbGhvc3Q6ODA4MCJ9LAo=</text>
+        <text encoding="base64">CS8vIGdyYXBoTWFuYWdlclJlc29sdmVyIDo9IHNlcnZpY2UuU3RhdGljR3JhcGhNYW5hZ2VyUmVzb2x2ZXJ7RG9tYWluOiAiaHR0cDovL2xvY2FsaG9zdDo4MDgwIn0K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQkK</text>
+        <text encoding="base64">CXJldHVybiBuaWwsIGVycm9ycy5OZXcoIkdyYXBoTWFuYWdlciBub3QgZm91bmQiKQo=</text>
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">RmlsZUdyYXBoTWFuYWdlclJlc29sdmVyLCBlcnJvcikgewoJZyA6PSBuZXcoZ3JhcGhNYW5hZ2VyKQoJYnVmLCBlcnIgOj0gaW91dGlsLlJlYWRGaWxlKGZpbGVQYXRoKQoJaWYgZXJyICE9IG5pbCB7CgkJLy8g44OV44Kh44Kk44Or44KS6Kqt44G/6L6844KB44Gq44GL44Gj44Gf5aC05ZCI5q2744GsCgkJcmV0dXJuIG5pbCwgZXJyCgl9CgllcnIgPSB5YW1sLlVubWFyc2hhbChidWYsIGcpCglpZiBlcnIgIT0gbmlsIHsKCQkvLyBZQU1M44Go44GX44Gm5q2j44GX44GP44Gq44GP44Gm44KC5q2744GsCgkJcmV0dXJuIG5pbCwgZXJyCgl9CglyZXR1cm4g</text>
+      <register name="5" type="2">
+        <text encoding="base64">CWRlZmF1bHQK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CQlwYW5pYyhlcnIpCg==</text>
+        <text encoding="base64">CWdtWWFtbCwgZXJyIDo9IGJ5dGVzLgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQlwYW5pYyhlcnIpCg==</text>
+        <text encoding="base64">CWZtdC5QcmludGxuKGcpCg==</text>
       </register>
       <register name="w" type="4">
         <text>www</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CWZpbGVQYXRoIHN0cmluZwo=</text>
+        <text encoding="base64">CXQuTG9nKHJlc29sdmVyLmdtQWRkcmVzc2VzKQoK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CS8vcm91dGVyLlVzZShtaWRkbGV3YXJlLlRpbWVvdXQoNjAgKiB0aW1lLlNlY29uZCkpCg==</text>
+        <text encoding="base64">LS0tIAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxGaWxlR3JhcGhNYW5hZ2VyUmVzb2x2ZXJcPg==</last-search>
+      <last-search>log\.</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxGaWxlR3JhcGhNYW5hZ2VyUmVzb2x2ZXJcPg==</last-pattern>
+      <last-pattern>log\.</last-pattern>
       <last-replace>e</last-replace>
       <last-substitute>n.Edge</last-substitute>
-      <last-dir>-1</last-dir>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
@@ -887,24 +896,20 @@
         <entry encoding="base64">XDxzXD4=</entry>
         <entry>64</entry>
         <entry>err</entry>
-        <entry>log</entry>
-        <entry>log\.</entry>
-        <entry>fmt</entry>
         <entry>byteOrder</entry>
         <entry>client</entry>
         <entry encoding="base64">XDxGaWxlR3JhcGhNYW5hZ2VyUmVzb2x2ZXJcPg==</entry>
+        <entry>fmt</entry>
+        <entry>log</entry>
+        <entry>log\.</entry>
       </history-search>
       <history-cmd>
-        <entry>89,96d</entry>
-        <entry>92</entry>
-        <entry>we</entry>
         <entry>17,42y</entry>
         <entry>4</entry>
         <entry>44</entry>
         <entry>17,43d</entry>
         <entry>11,39d</entry>
         <entry>21</entry>
-        <entry>'s,'ed</entry>
         <entry>32,44d</entry>
         <entry>10</entry>
         <entry>31</entry>
@@ -913,7 +918,11 @@
         <entry>84</entry>
         <entry>'s,'ey</entry>
         <entry>wq</entry>
+        <entry>'s,'ed</entry>
+        <entry>9,15d</entry>
+        <entry>9,18y</entry>
         <entry>q</entry>
+        <entry>noh</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
