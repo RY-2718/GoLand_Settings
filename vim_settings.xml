@@ -329,12 +329,12 @@
         <mark key="^" line="5" column="53" />
         <mark key="." line="5" column="53" />
       </file>
-      <file name="$USER_HOME$/go/src/github.com/INL-Catalogue/CatalogueServerHttp/src/server.go" timestamp="1555844420476">
+      <file name="$USER_HOME$/go/src/github.com/INL-Catalogue/CatalogueServerHttp/src/server.go" timestamp="1557146031316">
         <mark key="'" line="33" column="8" />
-        <mark key="[" line="45" column="52" />
-        <mark key="]" line="45" column="52" />
-        <mark key="^" line="45" column="58" />
-        <mark key="." line="45" column="52" />
+        <mark key="[" line="50" column="58" />
+        <mark key="]" line="50" column="77" />
+        <mark key="." line="50" column="77" />
+        <mark key="^" line="50" column="77" />
       </file>
       <file name="$USER_HOME$/go/src/github.com/INL-Catalogue/CatalogueServerHttp/sql/CatalogServer.sql" timestamp="1547490228753">
         <mark key="'" line="29" column="0" />
@@ -407,6 +407,14 @@
         <mark key="]" line="111" column="0" />
         <mark key="." line="111" column="0" />
       </file>
+      <file name="$USER_HOME$/go/src/github.com/INL-Catalogue/CatalogueServerHttp/src/core/config_loader.go" timestamp="1557146834926">
+        <mark key="s" line="22" column="4" />
+        <mark key="e" line="32" column="4" />
+        <mark key="[" line="20" column="3" />
+        <mark key="]" line="20" column="8" />
+        <mark key="^" line="20" column="8" />
+        <mark key="." line="20" column="8" />
+      </file>
       <file name="$USER_HOME$/.ghq/github.com/INL-Catalogue/CatalogueHTTPClient/binary/scenario.go" timestamp="1557045146937">
         <mark key="[" line="17" column="32" />
         <mark key="]" line="17" column="49" />
@@ -433,11 +441,11 @@
         <mark key="^" line="3" column="0" />
         <mark key="." line="3" column="0" />
       </file>
-      <file name="$USER_HOME$/go/src/github.com/INL-Catalogue/CatalogueServerHttp/src/interface/service/graph_manager_resolver.go" timestamp="1557143373036">
-        <mark key="[" line="17" column="4" />
-        <mark key="]" line="17" column="5" />
-        <mark key="." line="17" column="5" />
-        <mark key="^" line="17" column="18" />
+      <file name="$USER_HOME$/go/src/github.com/INL-Catalogue/CatalogueServerHttp/src/interface/service/graph_manager_resolver.go" timestamp="1557146904557">
+        <mark key="[" line="37" column="0" />
+        <mark key="]" line="37" column="0" />
+        <mark key="^" line="35" column="35" />
+        <mark key="." line="37" column="0" />
       </file>
       <file name="$USER_HOME$/go/src/github.com/INL-Catalogue/GraphManagerHttp/test/test.sh" timestamp="1552207282708">
         <mark key="[" line="21" column="0" />
@@ -680,8 +688,8 @@
       <jump line="99" column="0" filename="$USER_HOME$/.ghq/github.com/INL-Catalogue/CatalogueHTTPClient/client.go" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>dst</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">CWlmIGVyciAhPSBuaWwgewoJCS8vIOODleOCoeOCpOODq+OCkuiqreOBv+i+vOOCgeOBquOBi+OBo+OBn+WgtOWQiOatu+OBrAoJCXJldHVybiBuaWwsIGVycgoJfQo=</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -804,16 +812,16 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>dst</text>
+        <text>buf</text>
       </register>
       <register name="/" type="4">
-        <text>client</text>
+        <text encoding="base64">XDxGaWxlR3JhcGhNYW5hZ2VyUmVzb2x2ZXJcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">CQljb2RlID0gUmVxdWVzdFJldHJpZXZlR3JhcGgK</text>
+        <text encoding="base64">CQlyZXR1cm4gbmlsLCBlcnIK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CS8vcm91dGVyLlVzZShtaWRkbGV3YXJlLlRpbWVvdXQoNjAgKiB0aW1lLlNlY29uZCkpCg==</text>
+        <text encoding="base64">CWlmIGVyciAhPSBuaWwgewoJCS8vIOODleOCoeOCpOODq+OCkuiqreOBv+i+vOOCgeOBquOBi+OBo+OBn+WgtOWQiOatu+OBrAoJCXJldHVybiBuaWwsIGVycgoJfQo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -824,48 +832,47 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CS8vcm91dGVyLlVzZShtaWRkbGV3YXJlLlRpbWVvdXQoNjAgKiB0aW1lLlNlY29uZCkpCg==</text>
+        <text encoding="base64">CWJ1ZiwgZXJyIDo9IGlvdXRpbC5SZWFkRmlsZShmaWxlUGF0aCkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CXZhciByZXFCb2R5IGlvLlJlYWRlciA9IHIuQm9keQoJLy9yZXFCb2R5ID0gaW8uVGVlUmVhZGVyKHJlcUJvZHksIG9zLlN0ZGVycikK</text>
+        <text encoding="base64">CQlzZXJ2aWNlLlN0YXRpY0dyYXBoTWFuYWdlclJlc29sdmVye0RvbWFpbjogImh0dHA6Ly9sb2NhbGhvc3Q6ODA4MCJ9LAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CXZhciBlcnIgZXJyb3IK</text>
+        <text encoding="base64">CQkK</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">CWxvZy5QcmludGxuKCJSZWFkeSBmb3IgZXhlYyIpCg==</text>
+      <register name="5" type="4">
+        <text encoding="base64">RmlsZUdyYXBoTWFuYWdlclJlc29sdmVyLCBlcnJvcikgewoJZyA6PSBuZXcoZ3JhcGhNYW5hZ2VyKQoJYnVmLCBlcnIgOj0gaW91dGlsLlJlYWRGaWxlKGZpbGVQYXRoKQoJaWYgZXJyICE9IG5pbCB7CgkJLy8g44OV44Kh44Kk44Or44KS6Kqt44G/6L6844KB44Gq44GL44Gj44Gf5aC05ZCI5q2744GsCgkJcmV0dXJuIG5pbCwgZXJyCgl9CgllcnIgPSB5YW1sLlVubWFyc2hhbChidWYsIGcpCglpZiBlcnIgIT0gbmlsIHsKCQkvLyBZQU1M44Go44GX44Gm5q2j44GX44GP44Gq44GP44Gm44KC5q2744GsCgkJcmV0dXJuIG5pbCwgZXJyCgl9CglyZXR1cm4g</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CWxvZy5QcmludGxuKCkK</text>
+        <text encoding="base64">CQlwYW5pYyhlcnIpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CWxvZy5QcmludGxuKCJyZWFjaGVkIHRvIEludGVyYWN0b3IiKQo=</text>
+        <text encoding="base64">CQlwYW5pYyhlcnIpCg==</text>
       </register>
       <register name="w" type="4">
         <text>www</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CXIuQm9keS5yZQo=</text>
+        <text encoding="base64">CWZpbGVQYXRoIHN0cmluZwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CXZhciBjb25uIGludGVyZmFjZXt9Cg==</text>
+        <text encoding="base64">CS8vcm91dGVyLlVzZShtaWRkbGV3YXJlLlRpbWVvdXQoNjAgKiB0aW1lLlNlY29uZCkpCg==</text>
       </register>
       <register name=":" type="4">
-        <text>q</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>client</last-search>
+      <last-search encoding="base64">XDxGaWxlR3JhcGhNYW5hZ2VyUmVzb2x2ZXJcPg==</last-search>
       <last-offset />
-      <last-pattern>client</last-pattern>
+      <last-pattern encoding="base64">XDxGaWxlR3JhcGhNYW5hZ2VyUmVzb2x2ZXJcPg==</last-pattern>
       <last-replace>e</last-replace>
       <last-substitute>n.Edge</last-substitute>
-      <last-dir>1</last-dir>
+      <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>Edge</entry>
         <entry encoding="base64">XDxkb21haW5cPg==</entry>
         <entry encoding="base64">XDxlZGdlUm93c1w+</entry>
         <entry encoding="base64">XDxlbnZcPg==</entry>
@@ -885,10 +892,9 @@
         <entry>fmt</entry>
         <entry>byteOrder</entry>
         <entry>client</entry>
+        <entry encoding="base64">XDxGaWxlR3JhcGhNYW5hZ2VyUmVzb2x2ZXJcPg==</entry>
       </history-search>
       <history-cmd>
-        <entry>99,112y</entry>
-        <entry>83</entry>
         <entry>89,96d</entry>
         <entry>92</entry>
         <entry>we</entry>
@@ -905,8 +911,10 @@
         <entry>59</entry>
         <entry>78</entry>
         <entry>84</entry>
-        <entry>w</entry>
+        <entry>'s,'ey</entry>
+        <entry>wq</entry>
         <entry>q</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
