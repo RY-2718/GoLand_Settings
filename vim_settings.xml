@@ -93,12 +93,12 @@
         <mark key="^" line="10" column="18" />
         <mark key="." line="10" column="18" />
       </file>
-      <file name="$USER_HOME$/.ghq/github.com/INL-Catalogue/CatalogueHTTPClient/client.go" timestamp="1557152029156">
-        <mark key="'" line="51" column="8" />
-        <mark key="[" line="54" column="74" />
-        <mark key="]" line="54" column="65" />
-        <mark key="^" line="54" column="65" />
-        <mark key="." line="54" column="65" />
+      <file name="$USER_HOME$/.ghq/github.com/INL-Catalogue/CatalogueHTTPClient/client.go" timestamp="1557291558734">
+        <mark key="'" line="71" column="4" />
+        <mark key="[" line="82" column="80" />
+        <mark key="]" line="82" column="81" />
+        <mark key="." line="82" column="81" />
+        <mark key="^" line="82" column="81" />
       </file>
       <file name="$USER_HOME$/go/src/github.com/INL-Catalogue/GraphManagerHttp/src/domain/catalogue.go" timestamp="1553320799819">
         <mark key="'" line="12" column="0" />
@@ -522,20 +522,18 @@
         <mark key="^" line="5" column="43" />
         <mark key="." line="5" column="43" />
       </file>
+      <file name="$USER_HOME$/.ghq/github.com/INL-Catalogue/CatalogueHTTPClient/README.md" timestamp="1557292245823">
+        <mark key="'" line="46" column="4" />
+        <mark key="[" line="44" column="24" />
+        <mark key="]" line="46" column="4" />
+        <mark key="." line="46" column="4" />
+        <mark key="^" line="46" column="4" />
+      </file>
       <file name="$USER_HOME$/go/src/github.com/INL-Catalogue/CatalogueServerHttp/src/interface/database/edge_repository.go" timestamp="1552211370861">
         <mark key="[" line="7" column="0" />
         <mark key="]" line="7" column="0" />
         <mark key="^" line="12" column="35" />
         <mark key="." line="7" column="0" />
-      </file>
-      <file name="$USER_HOME$/.ghq/github.com/INL-Catalogue/CatalogueHTTPClient/domain/node_test.go" timestamp="1557043700652">
-        <mark key="s" line="180" column="17" />
-        <mark key="e" line="207" column="4" />
-        <mark key="'" line="166" column="0" />
-        <mark key="[" line="102" column="26" />
-        <mark key="]" line="102" column="26" />
-        <mark key="." line="102" column="26" />
-        <mark key="^" line="102" column="26" />
       </file>
       <file name="$USER_HOME$/go/src/github.com/INL-Catalogue/CatalogueServerHttp/src/interface/controller/sample_controller.go" timestamp="1549786238972">
         <mark key="[" line="7" column="6" />
@@ -602,9 +600,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="35" column="20" filename="$USER_HOME$/go/src/github.com/INL-Catalogue/GraphManagerHttp/src/interface/controller/edges_controller.go" />
-      <jump line="49" column="9" filename="$USER_HOME$/go/src/github.com/INL-Catalogue/GraphManagerHttp/src/interface/controller/edges_controller.go" />
-      <jump line="50" column="7" filename="$USER_HOME$/go/src/github.com/INL-Catalogue/GraphManagerHttp/src/interface/controller/edges_controller.go" />
       <jump line="51" column="20" filename="$USER_HOME$/go/src/github.com/INL-Catalogue/GraphManagerHttp/src/interface/controller/edges_controller.go" />
       <jump line="64" column="4" filename="$USER_HOME$/go/src/github.com/INL-Catalogue/GraphManagerHttp/src/interface/controller/edges_controller.go" />
       <jump line="66" column="7" filename="$USER_HOME$/go/src/github.com/INL-Catalogue/GraphManagerHttp/src/interface/controller/edges_controller.go" />
@@ -702,23 +697,13 @@
       <jump line="51" column="7" filename="$USER_HOME$/go/src/github.com/INL-Catalogue/CatalogueServerHttp/src/interface/database/catalogue_repository.go" />
       <jump line="74" column="8" filename="$USER_HOME$/go/src/github.com/INL-Catalogue/CatalogueServerHttp/src/interface/database/catalogue_repository.go" />
       <jump line="64" column="4" filename="$USER_HOME$/go/src/github.com/INL-Catalogue/CatalogueServerHttp/src/interface/database/catalogue_repository.go" />
+      <jump line="71" column="4" filename="$USER_HOME$/.ghq/github.com/INL-Catalogue/CatalogueHTTPClient/client.go" />
+      <jump line="10" column="15" filename="$USER_HOME$/.ghq/github.com/INL-Catalogue/CatalogueHTTPClient/README.md" />
+      <jump line="46" column="4" filename="$USER_HOME$/.ghq/github.com/INL-Catalogue/CatalogueHTTPClient/README.md" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>// SQL injectionを回避するためplaceholderを用いたstatementを用意
-	stmt := fmt.Sprintf(&quot;INSERT INTO edges \n&quot;+
-		&quot;(catalog_server_id, catalog_owner_id, catalog_local_id, catalog_version_id, \n&quot;+
-		&quot;src_server_id, src_owner_id, src_local_id, src_version_id, \n&quot;+
-		&quot;dst_server_id, dst_owner_id, dst_local_id, dst_version_id, \n&quot;+
-		&quot;attr_well_known, attr_user_local) VALUES %s&quot;,
-		strings.Join(placeholders, &quot;,&quot;),
-	)
-
-	_, err = tx.Exec(stmt, params...)
-	if err != nil {
-		// TODO: 独自型のエラーにラッピングして返す
-		return err
-	}</text>
+        <text>Resolusion</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -841,15 +826,32 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>ど</text>
+        <text>Resolusion</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjb25zdFw+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">CV8sIGVyciA9IHR4LkV4ZWMoc3RtdCwgcGFyYW1zLi4uKQoJaWYgZXJyICE9IG5pbCB7CgkJLy8gVE9ETzog54us6Ieq5Z6L44Gu44Ko44Op44O844Gr44Op44OD44OU44Oz44Kw44GX44Gm6L+U44GZCgkJcmV0dXJuIGVycgoJfQo=</text>
+        <text encoding="base64">fCBfX18gfCBfX18gfAp8IDotLS06IHwgOi0tLTogfAp8IENhdGFsb2d1ZUlEIHwgU2VydmVySUQ6IDEsIE93bmVySUQ6IDEsIExvY2FsSUQ6IHtpdHIgbnVtfSwgVmVyc2lvbklEOiAwIHwKfCBOb2RlSUQgfCBTZXJ2ZXJJRDogMSwgT3duZXJJRDogMiwgTG9jYWxJRDoge2l0ciBudW0gLSBpdHIgbnVtICsgNH0sIFZlcnNpb25JRDogMCB8Cg==</text>
       </register>
-      <register name="1" type="4">
+      <register name="1" type="2">
+        <text encoding="base64">U2VydmVySUQ6IDEK</text>
+      </register>
+      <register name="q" type="4">
+        <keys>
+          <key char="108" code="0" mods="0" />
+          <key char="97" code="0" mods="0" />
+          <key char="44" code="0" mods="0" />
+          <key char="65535" code="27" mods="0" />
+        </keys>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">IyMjIyAK</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="4" type="4">
         <text>// SQL injectionを回避するためplaceholderを用いたstatementを用意
 	stmt := fmt.Sprintf(&quot;INSERT INTO edges \n&quot;+
 		&quot;(catalog_server_id, catalog_owner_id, catalog_local_id, catalog_version_id, \n&quot;+
@@ -865,15 +867,7 @@
 		return err
 	}</text>
       </register>
-      <register name="q" type="4">
-        <keys>
-          <key char="108" code="0" mods="0" />
-          <key char="97" code="0" mods="0" />
-          <key char="44" code="0" mods="0" />
-          <key char="65535" code="27" mods="0" />
-        </keys>
-      </register>
-      <register name="2" type="4">
+      <register name="5" type="4">
         <text>// SQL injectionを回避するためplaceholderを用いたstatementを用意
 	stmt := fmt.Sprintf(&quot;INSERT INTO edges \n&quot;+
 		&quot;(catalog_server_id, catalog_owner_id, catalog_local_id, catalog_version_id, \n&quot;+
@@ -883,40 +877,50 @@
 		strings.Join(placeholders, &quot;,&quot;),
 	)</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">CS8vIFNRTCBpbmplY3Rpb27jgpLlm57pgb/jgZnjgovjgZ/jgoFwbGFjZWhvbGRlcuOCkueUqOOBhOOBn3N0YXRlbWVudOOCkueUqOaEjwo=</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
       <register name="6" type="2">
-        <text encoding="base64">CXN0bXQgOj0gZm10LlNwcmludGYoU1FMU3RtdCwgc3RyaW5ncy5Kb2luKHBsYWNlaG9sZGVycywgIiwiKSkKCglfLCBlcnIgPSB0eC5FeGVjKHN0bXQsIHBhcmFtcy4uLikKCWlmIGVyciAhPSBuaWwgewoJCS8vIFRPRE86IOeLrOiHquWei+OBruOCqOODqeODvOOBq+ODqeODg+ODlOODs+OCsOOBl+OBpui/lOOBmQoJCXJldHVybiBlcnIKCX0K</text>
+        <text encoding="base64">CS8vIFNRTCBpbmplY3Rpb27jgpLlm57pgb/jgZnjgovjgZ/jgoFwbGFjZWhvbGRlcuOCkueUqOOBhOOBn3N0YXRlbWVudOOCkueUqOaEjwo=</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="w" type="4">
-        <text>www</text>
+        <keys>
+          <key char="65535" code="27" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="119" code="0" mods="0" />
+          <key char="119" code="0" mods="0" />
+          <key char="119" code="0" mods="0" />
+          <key char="119" code="0" mods="0" />
+          <key char="118" code="0" mods="0" />
+          <key char="119" code="0" mods="0" />
+          <key char="119" code="0" mods="0" />
+          <key char="119" code="0" mods="0" />
+          <key char="104" code="0" mods="0" />
+          <key char="108" code="0" mods="0" />
+          <key char="115" code="0" mods="0" />
+          <key char="48" code="0" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="106" code="0" mods="0" />
+          <key char="98" code="0" mods="0" />
+          <key char="98" code="0" mods="0" />
+          <key char="98" code="0" mods="0" />
+          <key char="98" code="0" mods="0" />
+          <key char="98" code="0" mods="0" />
+          <key char="98" code="0" mods="0" />
+          <key char="107" code="0" mods="0" />
+          <key char="107" code="0" mods="0" />
+          <key char="106" code="0" mods="0" />
+        </keys>
       </register>
-      <register name="8" type="4">
-        <text>&quot;INSERT INTO edges \n&quot;+
-		&quot;(catalog_server_id, catalog_owner_id, catalog_local_id, catalog_version_id, \n&quot;+
-		&quot;src_server_id, src_owner_id, src_local_id, src_version_id, \n&quot;+
-		&quot;dst_server_id, dst_owner_id, dst_local_id, dst_version_id, \n&quot;+
-		&quot;attr_well_known, attr_user_local) VALUES %s&quot;</text>
+      <register name="8" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="9" type="4">
-        <text>&quot;INSERT INTO edges \n&quot;+
-		&quot;(catalog_server_id, catalog_owner_id, catalog_local_id, catalog_version_id, \n&quot;+
-		&quot;src_server_id, src_owner_id, src_local_id, src_version_id, \n&quot;+
-		&quot;dst_server_id, dst_owner_id, dst_local_id, dst_version_id, \n&quot;+
-		&quot;attr_well_known, attr_user_local) VALUES %s&quot;,</text>
+      <register name="9" type="2">
+        <text encoding="base64">CXN0bXQgOj0gZm10LlNwcmludGYoU1FMU3RtdCwgc3RyaW5ncy5Kb2luKHBsYWNlaG9sZGVycywgIiwiKSkKCglfLCBlcnIgPSB0eC5FeGVjKHN0bXQsIHBhcmFtcy4uLikKCWlmIGVyciAhPSBuaWwgewoJCS8vIFRPRE86IOeLrOiHquWei+OBruOCqOODqeODvOOBq+ODqeODg+ODlOODs+OCsOOBl+OBpui/lOOBmQoJCXJldHVybiBlcnIKCX0K</text>
       </register>
       <register name=":" type="4">
-        <text>122</text>
+        <text>9,12y</text>
       </register>
     </registers>
     <search>
@@ -952,26 +956,26 @@
         <entry encoding="base64">XDxjb25zdFw+</entry>
       </history-search>
       <history-cmd>
-        <entry>10</entry>
-        <entry>31</entry>
         <entry>59</entry>
         <entry>78</entry>
         <entry>84</entry>
         <entry>wq</entry>
         <entry>9,15d</entry>
         <entry>9,18y</entry>
-        <entry>q</entry>
         <entry>noh</entry>
-        <entry>qa</entry>
         <entry>75</entry>
         <entry>67</entry>
         <entry>108</entry>
         <entry>65</entry>
         <entry>'s,'ey</entry>
         <entry>'s,'ed</entry>
-        <entry>w</entry>
         <entry>104</entry>
         <entry>122</entry>
+        <entry>q</entry>
+        <entry>qa</entry>
+        <entry>61,111y</entry>
+        <entry>w</entry>
+        <entry>9,12y</entry>
       </history-cmd>
       <history-expr />
       <history-input />
