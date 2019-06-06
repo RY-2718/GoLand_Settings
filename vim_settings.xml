@@ -333,13 +333,6 @@
         <mark key="." line="7" column="26" />
         <mark key="^" line="7" column="26" />
       </file>
-      <file name="$USER_HOME$/.ghq/github.com/INL-Catalogue/CatalogueHTTPClient/client.go" timestamp="1557227168648">
-        <mark key="'" line="51" column="8" />
-        <mark key="[" line="65" column="12" />
-        <mark key="]" line="65" column="13" />
-        <mark key="^" line="65" column="13" />
-        <mark key="." line="65" column="13" />
-      </file>
       <file name="$USER_HOME$/go/src/github.com/INL-Catalogue/CatalogueServerHttp/src/domain/catalogue.go" timestamp="1553320819243">
         <mark key="'" line="9" column="0" />
         <mark key="[" line="34" column="0" />
