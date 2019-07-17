@@ -46,11 +46,11 @@
         <mark key="." line="16" column="18" />
         <mark key="^" line="20" column="17" />
       </file>
-      <file name="$USER_HOME$/go/src/github.com/RY-2718/AtCoderGo/ABC133/D/main.go" timestamp="1563366345466">
-        <mark key="[" line="31" column="9" />
-        <mark key="]" line="32" column="29" />
-        <mark key="^" line="32" column="29" />
-        <mark key="." line="32" column="29" />
+      <file name="$USER_HOME$/go/src/github.com/RY-2718/AtCoderGo/ABC133/D/main.go" timestamp="1563368108539">
+        <mark key="[" line="25" column="94" />
+        <mark key="]" line="25" column="93" />
+        <mark key="." line="25" column="93" />
+        <mark key="^" line="25" column="93" />
       </file>
       <file name="$USER_HOME$/go/src/github.com/RY-2718/AtCoderGo/ABC133/B/main.go" timestamp="1563346046499">
         <mark key="[" line="35" column="0" />
@@ -83,40 +83,44 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">CQkvLyBu55Wq55uu44Gua2V544GvIltuIC0gMV0wIuOBp+OBr+OBquOBjyJbbiAtIDFdW25dIuOBq+OBquOCiwo=</text>
+        <text encoding="base64">CS8vIAo=</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">IA==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">CQkJXywgXyA9IGZtdC5GcHJpbnRmKHN0ZG91dCwgIiVkICIsIHN1bS1zdWIpCg==</text>
+        <text encoding="base64">CQkJb3RoZXJzIDo9IDIgKiAoc3VtT2Rkc1tpLzJdICsgc3VtRXZlbnNbbi8yXSAtIHN1bUV2ZW5zW2kvMi0xXSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQkvLyBu55Wq55uu44Gua2V544GvIltuIC0gMV0wIuOBp+OBr+OBquOBjyJbbiAtIDFdW25dIuOBq+OBquOCiwo=</text>
+        <text encoding="base64">CS8vIAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQlzdW0gKz0gYQo=</text>
+        <text encoding="base64">CQkJLy8gWzAgYV8wLCBhXzArYV8yLCBhXzArYV8yK2FfNF0K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CXN1bSA6PSAwCg==</text>
+        <text encoding="base64">CQkJb3RoZXJzIDo9IDIgKiAoc3VtT2Rkc1tpLzJdICsgc3VtRXZlbnNbbi8yXSAtIHN1bUV2ZW5zW2kvMi0xXSkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQkJb3RoZXJzIDo9IDIgKiAoc3VtRXZlbnNbaS8yXSArIHN1bU9kZHNbbi8yXSAtIHN1bU9kZHNbaS8yLTFdKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CQlrZXkgOj0gZm10LlNwcmludGYoIiVkJWQiLCBpLCBpKzEpCg==</text>
+        <text encoding="base64">CQkJCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CQl3YXRlclN0b3JhZ2Vba2V5XSA9IGEK</text>
+        <text encoding="base64">CXN1bQo=</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">CXdhdGVyU3RvcmFnZSA6PSBtYWtlKG1hcFtzdHJpbmddaW50KQo=</text>
+      <register name="7" type="4">
+        <text>i == 0 {
+			sumEvens[0] = a
+		} else if i == 1 {
+			sumOdds[0] = a
+		} else if</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQkJYW5zd2VyIDo9IHN1bUV2ZW5zW10K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CWZvciBpIDo9IDA7IGkgPCBuOyBpKysgewoJfQo=</text>
+        <text encoding="base64">CQkJCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
