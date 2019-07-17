@@ -46,12 +46,11 @@
         <mark key="." line="16" column="18" />
         <mark key="^" line="20" column="17" />
       </file>
-      <file name="$USER_HOME$/go/src/github.com/RY-2718/AtCoderGo/ABC133/D/main.go" timestamp="1563365043102">
-        <mark key="'" line="30" column="0" />
-        <mark key="[" line="24" column="41" />
-        <mark key="]" line="26" column="20" />
-        <mark key="^" line="26" column="20" />
-        <mark key="." line="26" column="20" />
+      <file name="$USER_HOME$/go/src/github.com/RY-2718/AtCoderGo/ABC133/D/main.go" timestamp="1563366345466">
+        <mark key="[" line="31" column="9" />
+        <mark key="]" line="32" column="29" />
+        <mark key="^" line="32" column="29" />
+        <mark key="." line="32" column="29" />
       </file>
       <file name="$USER_HOME$/go/src/github.com/RY-2718/AtCoderGo/ABC133/B/main.go" timestamp="1563346046499">
         <mark key="[" line="35" column="0" />
@@ -84,7 +83,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">CQlfLCBfID0gZm10LkZzY2FuKHN0ZGluLCAmYSkK</text>
+        <text encoding="base64">CQkvLyBu55Wq55uu44Gua2V544GvIltuIC0gMV0wIuOBp+OBr+OBquOBjyJbbiAtIDFdW25dIuOBq+OBquOCiwo=</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">IA==</text>
@@ -93,38 +92,31 @@
         <text encoding="base64">CQkJXywgXyA9IGZtdC5GcHJpbnRmKHN0ZG91dCwgIiVkICIsIHN1bS1zdWIpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQlfLCBfID0gZm10LkZzY2FuKHN0ZGluLCAmYSkK</text>
+        <text encoding="base64">CQkvLyBu55Wq55uu44Gua2V544GvIltuIC0gMV0wIuOBp+OBr+OBquOBjyJbbiAtIDFdW25dIuOBq+OBquOCiwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQl2YXIgYSBpbnQK</text>
+        <text encoding="base64">CQlzdW0gKz0gYQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CXZhciBuIGludAoJCg==</text>
+        <text encoding="base64">CXN1bSA6PSAwCg==</text>
       </register>
-      <register name="4" type="8">
-        <text>//
-//
-//
-//
-//
-//
-//
-//</text>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CV8sIF8gPSBmbXQuRnNjYW5mKHN0ZGluLCAiJWRcbiIsICZuKQo=</text>
+        <text encoding="base64">CQlrZXkgOj0gZm10LlNwcmludGYoIiVkJWQiLCBpLCBpKzEpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CQo=</text>
+        <text encoding="base64">CQl3YXRlclN0b3JhZ2Vba2V5XSA9IGEK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CXNjIDo9IGJ1ZmlvLk5ld1NjYW5uZXIoc3RkaW4pCg==</text>
+        <text encoding="base64">CXdhdGVyU3RvcmFnZSA6PSBtYWtlKG1hcFtzdHJpbmddaW50KQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CglfLCBfID0gZm10LkZwcmludGYoc3Rkb3V0LCAiXG4iKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQkJCg==</text>
+        <text encoding="base64">CWZvciBpIDo9IDA7IGkgPCBuOyBpKysgewoJfQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -136,7 +128,6 @@
     </search>
     <history>
       <history-cmd>
-        <entry>ww</entry>
         <entry>qw</entry>
         <entry>12,17d</entry>
         <entry>36</entry>
@@ -144,7 +135,6 @@
         <entry>26,37d</entry>
         <entry>10</entry>
         <entry>13,22</entry>
-        <entry>'s,'ed</entry>
         <entry>q</entry>
         <entry>21y</entry>
         <entry>qa</entry>
@@ -154,6 +144,9 @@
         <entry>51,51d</entry>
         <entry>51,61d</entry>
         <entry>47,51d</entry>
+        <entry>'s,'ed</entry>
+        <entry>31</entry>
+        <entry>28</entry>
         <entry>w</entry>
       </history-cmd>
     </history>
