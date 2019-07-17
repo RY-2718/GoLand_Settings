@@ -46,23 +46,24 @@
         <mark key="." line="16" column="18" />
         <mark key="^" line="20" column="17" />
       </file>
-      <file name="$USER_HOME$/go/src/github.com/RY-2718/AtCoderGo/ABC133/D/main.go" timestamp="1563369913164">
-        <mark key="'" line="51" column="39" />
-        <mark key="[" line="57" column="0" />
-        <mark key="]" line="57" column="0" />
-        <mark key="." line="57" column="0" />
+      <file name="$USER_HOME$/go/src/github.com/RY-2718/AtCoderGo/ABC133/D/main.go" timestamp="1563370698500">
+        <mark key="'" line="13" column="0" />
+        <mark key="[" line="59" column="32" />
+        <mark key="]" line="59" column="50" />
+        <mark key="." line="59" column="50" />
+        <mark key="^" line="59" column="50" />
       </file>
       <file name="$USER_HOME$/go/src/github.com/RY-2718/AtCoderGo/ABC133/B/main.go" timestamp="1563346046499">
         <mark key="[" line="35" column="0" />
         <mark key="]" line="35" column="0" />
         <mark key="." line="35" column="0" />
       </file>
-      <file name="$USER_HOME$/go/src/github.com/RY-2718/AtCoderGo/ABC133/D/main_test.go" timestamp="1563363349046">
+      <file name="$USER_HOME$/go/src/github.com/RY-2718/AtCoderGo/ABC133/D/main_test.go" timestamp="1563370431285">
         <mark key="'" line="18" column="22" />
-        <mark key="[" line="28" column="1" />
-        <mark key="]" line="30" column="27" />
-        <mark key="^" line="30" column="27" />
-        <mark key="." line="30" column="27" />
+        <mark key="[" line="41" column="36" />
+        <mark key="]" line="41" column="36" />
+        <mark key="^" line="41" column="22" />
+        <mark key="." line="41" column="36" />
       </file>
     </filemarks>
     <jumps>
@@ -80,64 +81,67 @@
       <jump line="42" column="14" filename="$USER_HOME$/go/src/github.com/RY-2718/AtCoderGo/ABC133/D/main.go" />
       <jump line="20" column="0" filename="$USER_HOME$/go/src/github.com/RY-2718/AtCoderGo/ABC133/D/main.go" />
       <jump line="51" column="39" filename="$USER_HOME$/go/src/github.com/RY-2718/AtCoderGo/ABC133/D/main.go" />
+      <jump line="13" column="0" filename="$USER_HOME$/go/src/github.com/RY-2718/AtCoderGo/ABC133/D/main.go" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">CQkJb3RoZXJzIDo9IHN1bU9kZHMK</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">ICsgc3VtT2Rkc1tuLzJdIC0gc3VtT2Rkc1tpLzJdKQ==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text encoding="base64">ICsgc3VtT2Rkc1tuLzJdIC0gc3VtT2Rkc1tpLzJdKQ==</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDwxXD4=</text>
+        <text encoding="base64">XDxzdW1PZGRzXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">CQkJb3RoZXJzIDo9IDIgKiAoc3VtT2Rkc1tpLzJdICsgc3VtRXZlbnNbbi8yXSAtIHN1bUV2ZW5zW2kvMi0xXSkK</text>
+        <text encoding="base64">CQkJLy8gb3RoZXJzIDo9IDIgKiAoc3VtRXZlbnNbaS8yXSArIHN1bU9kZHNbbi8yXSAtIHN1bU9kZHNbaS8yXSkK</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">CQkJb3RoZXJzIDo9IHN1bU9kZHMK</text>
+      <register name="1" type="4">
+        <text>sumOdds[i/2])
+			others := 2 * sumEvens[i/2]</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQkJLy8gaSA9IDIg44Gu44Go44GN5qyy44GX44GE44Gu44GvCg==</text>
+        <text encoding="base64">CQkJLy8g5Ye65Yqb44Gu44Gf44KB44Gr5aC05ZCI5YiG44GR44GX44Gf44GR44Gp77yM5aC05ZCI5YiG44GR44GX44Gq44GE5aC05ZCI44GvIAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CS8vIOOBvuOBn++8jHN1bSA9IHhfMCArIHhfMSArIC4uLiArIHhfNAoJLy8geF8yID0gc3VtIC0gKHhfMCArIHhfMSArIHhfMyArIHhfNCkg44Gq44Gu44GnIHhfMCArIHhfMSArIHhfMyArIHhfNCDjgYzmrLLjgZfjgYQKCS8vIGFfMCA9IDEvMih4XzAgKyB4XzEpLCBhXzMgPSAxLzIoeF8zICsgeF80KSDjgarjga7jgacKCS8vIHhfMiA9IHN1bSAtIDIgKiAoc3VtRXZlbnNbMV0gKyBzdW1PZGRzWzJdIC0gc3VtT2Rkc1sxXSkgPSBzdW0gLSAyICogKHN1bUV2ZW5zWzIvMl0gKyBzdW1PZGRzWzUvMl0gLSBzdW1PZGRzWzIvMi0xXSkKCS8vIOWQjOanmOOBqyB4XzAgPSBzdW0gLSAoeF8xICsgeF8yKyB4XzMgKyB4XzQpID0gc3VtIC0gMiAqIChzdW1FdmVuc1swXSArIHN1bU9kZHNbMl0gLSBzdW1PZGRzWzBdKSA9IHN1bSAtIDIgKiAoc3VtRXZlbnNbMC8yXSArIHN1bU9kZHNbNS8yXSAtIHN1bU9kZHNbMC8yXSkK</text>
+        <text encoding="base64">CQkJb3RoZXJzIDo9IHN1bU9kZHMK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CS8vIHhfMCA9IAo=</text>
+        <text encoding="base64">CQkJLy8gaSA9IDIg44Gu44Go44GN5qyy44GX44GE44Gu44GvCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CS8vIHhfMCA9IAo=</text>
+        <text encoding="base64">CS8vIOOBvuOBn++8jHN1bSA9IHhfMCArIHhfMSArIC4uLiArIHhfNAoJLy8geF8yID0gc3VtIC0gKHhfMCArIHhfMSArIHhfMyArIHhfNCkg44Gq44Gu44GnIHhfMCArIHhfMSArIHhfMyArIHhfNCDjgYzmrLLjgZfjgYQKCS8vIGFfMCA9IDEvMih4XzAgKyB4XzEpLCBhXzMgPSAxLzIoeF8zICsgeF80KSDjgarjga7jgacKCS8vIHhfMiA9IHN1bSAtIDIgKiAoc3VtRXZlbnNbMV0gKyBzdW1PZGRzWzJdIC0gc3VtT2Rkc1sxXSkgPSBzdW0gLSAyICogKHN1bUV2ZW5zWzIvMl0gKyBzdW1PZGRzWzUvMl0gLSBzdW1PZGRzWzIvMi0xXSkKCS8vIOWQjOanmOOBqyB4XzAgPSBzdW0gLSAoeF8xICsgeF8yKyB4XzMgKyB4XzQpID0gc3VtIC0gMiAqIChzdW1FdmVuc1swXSArIHN1bU9kZHNbMl0gLSBzdW1PZGRzWzBdKSA9IHN1bSAtIDIgKiAoc3VtRXZlbnNbMC8yXSArIHN1bU9kZHNbNS8yXSAtIHN1bU9kZHNbMC8yXSkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CS8vIHhfMiA9IHN1bSAtICh4XzAgKyB4XzEgKyB4XzMgKyB4XzQpIOOBquOBruOBpyB4XzAgKyB4XzEgKyB4XzMgKyB4XzQg44GM5qyy44GX44GECg==</text>
+        <text encoding="base64">CS8vIHhfMCA9IAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CS8vIHhfMiA9IHN1bSAtICh4XzAgKyB4XzEgKyB4XzMgKyB4XzQpIOOBquOBruOBpyB4XzAgKyB4XzEgKyB4XzMgKyB4XzQg44GM5qyy44GX44GECg==</text>
+        <text encoding="base64">CS8vIHhfMCA9IAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CS8vIAo=</text>
+        <text encoding="base64">CS8vIHhfMiA9IHN1bSAtICh4XzAgKyB4XzEgKyB4XzMgKyB4XzQpIOOBquOBruOBpyB4XzAgKyB4XzEgKyB4XzMgKyB4XzQg44GM5qyy44GX44GECg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQkJLy8gWzAgYV8wLCBhXzArYV8yLCBhXzArYV8yK2FfNF0K</text>
+        <text encoding="base64">CS8vIHhfMiA9IHN1bSAtICh4XzAgKyB4XzEgKyB4XzMgKyB4XzQpIOOBquOBruOBpyB4XzAgKyB4XzEgKyB4XzMgKyB4XzQg44GM5qyy44GX44GECg==</text>
       </register>
       <register name=":" type="4">
-        <text>27,31d</text>
+        <text encoding="base64">JzwsJz5xYQ==</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDwxXD4=</last-search>
+      <last-search encoding="base64">XDxzdW1PZGRzXD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDwxXD4=</last-pattern>
+      <last-pattern encoding="base64">XDxzdW1PZGRzXD4=</last-pattern>
       <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
         <entry encoding="base64">XDwxXD4=</entry>
+        <entry encoding="base64">XDznlarlhbVcPg==</entry>
+        <entry encoding="base64">XDxzdW1PZGRzXD4=</entry>
       </history-search>
       <history-cmd>
-        <entry>12,17d</entry>
         <entry>36</entry>
         <entry>41,50d</entry>
         <entry>26,37d</entry>
@@ -155,8 +159,9 @@
         <entry>'s,'ed</entry>
         <entry>31</entry>
         <entry>28</entry>
-        <entry>w</entry>
         <entry>27,31d</entry>
+        <entry>w</entry>
+        <entry encoding="base64">JzwsJz5xYQ==</entry>
       </history-cmd>
     </history>
     <shortcut-conflicts>
