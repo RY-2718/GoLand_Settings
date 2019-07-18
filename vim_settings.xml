@@ -41,11 +41,26 @@
       <file name="go.sdk.xml" timestamp="1563374727324">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/go/src/github.com/TeraokaKanekoLab/GraphManagerGo/src/interface/controller/edges_controller.go" timestamp="1563435106891">
+        <mark key="[" line="28" column="0" />
+        <mark key="]" line="28" column="0" />
+        <mark key="." line="28" column="0" />
+      </file>
       <file name="$USER_HOME$/go/src/github.com/RY-2718/AtCoderGo/ABC133/C/main.go" timestamp="1563348527541">
         <mark key="[" line="23" column="31" />
         <mark key="]" line="23" column="31" />
         <mark key="^" line="23" column="31" />
         <mark key="." line="23" column="31" />
+      </file>
+      <file name="$USER_HOME$/go/src/github.com/TeraokaKanekoLab/GraphManagerGo/src/interface/database/edge_repository_test.go" timestamp="1563435131332">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="35" column="19" />
+        <mark key="]" line="35" column="20" />
+        <mark key="." line="35" column="20" />
+        <mark key="^" line="35" column="15" />
+      </file>
+      <file name="$USER_HOME$/go/src/github.com/TeraokaKanekoLab/GraphManagerGo/src/domain/node_test.go" timestamp="1563435095447">
+        <mark key="'" line="8" column="14" />
       </file>
       <file name="$USER_HOME$/go/src/github.com/RY-2718/AtCoderGo/ABC133/B/main.go" timestamp="1563346046499">
         <mark key="[" line="35" column="0" />
@@ -57,6 +72,13 @@
         <mark key="]" line="28" column="0" />
         <mark key="^" line="27" column="0" />
         <mark key="." line="28" column="0" />
+      </file>
+      <file name="$USER_HOME$/go/src/github.com/TeraokaKanekoLab/GraphManagerGo/src/domain/node.go" timestamp="1563435079996">
+        <mark key="'" line="32" column="49" />
+        <mark key="[" line="46" column="34" />
+        <mark key="]" line="46" column="34" />
+        <mark key="." line="46" column="34" />
+        <mark key="^" line="46" column="32" />
       </file>
       <file name="$USER_HOME$/go/src/github.com/TeraokaKanekoLab/CatalogueServerGo/src/interface/database/catalogue_repository_test.go" timestamp="1563434546023">
         <mark key="'" line="35" column="14" />
@@ -113,6 +135,10 @@
       <jump line="13" column="0" filename="$USER_HOME$/go/src/github.com/RY-2718/AtCoderGo/ABC133/D/main.go" />
       <jump line="70" column="4" filename="$USER_HOME$/go/src/github.com/TeraokaKanekoLab/CatalogueServerGo/src/interface/database/catalogue_repository_test.go" />
       <jump line="35" column="14" filename="$USER_HOME$/go/src/github.com/TeraokaKanekoLab/CatalogueServerGo/src/interface/database/catalogue_repository_test.go" />
+      <jump line="32" column="49" filename="$USER_HOME$/go/src/github.com/TeraokaKanekoLab/GraphManagerGo/src/domain/node.go" />
+      <jump line="35" column="17" filename="$USER_HOME$/go/src/github.com/TeraokaKanekoLab/GraphManagerGo/src/domain/node_test.go" />
+      <jump line="8" column="14" filename="$USER_HOME$/go/src/github.com/TeraokaKanekoLab/GraphManagerGo/src/domain/node_test.go" />
+      <jump line="0" column="0" filename="$USER_HOME$/go/src/github.com/TeraokaKanekoLab/GraphManagerGo/src/interface/database/edge_repository_test.go" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -122,47 +148,49 @@
         <text>0</text>
       </register>
       <register name="/" type="4">
-        <text>010101</text>
+        <text>01</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">CQkJLy8gb3RoZXJzIDo9IDIgKiAoc3VtRXZlbnNbaS8yXSArIHN1bU9kZHNbbi8yXSAtIHN1bU9kZHNbaS8yXSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CX0K</text>
+        <text encoding="base64">CWlmIGxlbihub2RlSUQpICE9IDE2IHsKCQl3LldyaXRlSGVhZGVyKDQwMCkKCQlyZXR1cm4KCX0K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CWlmIGxlbihjYXRhbG9ndWVJRCkgIT0gMTYgewoJCWxvZy5QcmludGxuKCJjYXRhbG9ndWUgaWQgbm90IHZhbGlkOiAiICsgY2F0YWxvZ3VlSUQpCgkJdy5Xcml0ZUhlYWRlcig0MDApCgkJcmV0dXJuCg==</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">CWlmIGxlbihjYXRhbG9ndWVJRCkgIT0gMTYgewoJCWxvZy5QcmludGxuKCJjYXRhbG9ndWUgaWQgbm90IHZhbGlkOiAiICsgY2F0YWxvZ3VlSUQpCgkJdy5Xcml0ZUhlYWRlcig0MDApCgkJcmV0dXJuCgl9Cgo=</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">CXNlcnZlcklEU3RyIDo9IHNbMDo0XQoJT3duZXJJRFN0ciA6PSBzWzQ6OF0KCUxvY2FsSURTdHIgOj0gc1s4OjEyXQoJVmVyc2lvbklEU3RyIDo9IHNbMTI6MTZdCg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">CX0K</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">CWlmIGxlbihjYXRhbG9ndWVJRCkgIT0gMTYgewoJCWxvZy5QcmludGxuKCJjYXRhbG9ndWUgaWQgbm90IHZhbGlkOiAiICsgY2F0YWxvZ3VlSUQpCgkJdy5Xcml0ZUhlYWRlcig0MDApCgkJcmV0dXJuCg==</text>
+      </register>
       <register name="5" type="2">
+        <text encoding="base64">CWlmIGxlbihjYXRhbG9ndWVJRCkgIT0gMTYgewoJCWxvZy5QcmludGxuKCJjYXRhbG9ndWUgaWQgbm90IHZhbGlkOiAiICsgY2F0YWxvZ3VlSUQpCgkJdy5Xcml0ZUhlYWRlcig0MDApCgkJcmV0dXJuCgl9Cgo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">CXNlcnZlcklEU3RyIDo9IHNbMDo0XQoJT3duZXJJRFN0ciA6PSBzWzQ6OF0KCUxvY2FsSURTdHIgOj0gc1s4OjEyXQoJVmVyc2lvbklEU3RyIDo9IHNbMTI6MTZdCg==</text>
+      </register>
+      <register name="7" type="2">
         <text encoding="base64">CXNlcnZlcklEU3RyIDo9IHNbMDo0XQoJT3duZXJJRFN0ciA6PSBzWzQ6OF0KCUxvY2FsSURTdHIgOj0gc1s4OjEyXQo=</text>
       </register>
-      <register name="6" type="4">
+      <register name="8" type="4">
         <text>sumOdds[i/2])
 			others := 2 * sumEvens[i/2]</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">CQkJLy8g5Ye65Yqb44Gu44Gf44KB44Gr5aC05ZCI5YiG44GR44GX44Gf44GR44Gp77yM5aC05ZCI5YiG44GR44GX44Gq44GE5aC05ZCI44GvIAo=</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">CQkJb3RoZXJzIDo9IHN1bU9kZHMK</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">CQkJLy8gaSA9IDIg44Gu44Go44GN5qyy44GX44GE44Gu44GvCg==</text>
+        <text encoding="base64">CQkJLy8g5Ye65Yqb44Gu44Gf44KB44Gr5aC05ZCI5YiG44GR44GX44Gf44GR44Gp77yM5aC05ZCI5YiG44GR44GX44Gq44GE5aC05ZCI44GvIAo=</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
       </register>
     </registers>
     <search>
-      <last-search>010101</last-search>
+      <last-search>01</last-search>
       <last-offset />
-      <last-pattern>010101</last-pattern>
+      <last-pattern>01</last-pattern>
+      <last-replace>1:1:1:1</last-replace>
+      <last-substitute>01010101</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -172,10 +200,10 @@
         <entry encoding="base64">XDznlarlhbVcPg==</entry>
         <entry encoding="base64">XDxzdW1PZGRzXD4=</entry>
         <entry>010101</entry>
+        <entry>01010101</entry>
+        <entry>01</entry>
       </history-search>
       <history-cmd>
-        <entry>26,37d</entry>
-        <entry>10</entry>
         <entry>13,22</entry>
         <entry>21y</entry>
         <entry>13,22d</entry>
@@ -186,13 +214,15 @@
         <entry>47,51d</entry>
         <entry>'s,'ed</entry>
         <entry>31</entry>
-        <entry>28</entry>
         <entry>27,31d</entry>
         <entry encoding="base64">JzwsJz5xYQ==</entry>
         <entry>w</entry>
         <entry>wq</entry>
         <entry>29,34d</entry>
         <entry>qa</entry>
+        <entry>18,21d</entry>
+        <entry>%s/01010101/1:1:1:1/cg</entry>
+        <entry>28</entry>
         <entry>q</entry>
       </history-cmd>
       <history-expr />
