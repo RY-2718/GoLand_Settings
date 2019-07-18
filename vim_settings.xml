@@ -3,6 +3,9 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="vim_settings.xml" timestamp="1563374797572">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/go/src/github.com/RY-2718/AtCoderGo/ABC133/A/main.go" timestamp="1563341593179">
         <mark key="'" line="10" column="49" />
         <mark key="[" line="0" column="0" />
@@ -29,16 +32,47 @@
         <mark key="." line="24" column="16" />
         <mark key="^" line="24" column="16" />
       </file>
+      <file name="$USER_HOME$/go/src/github.com/TeraokaKanekoLab/CatalogueServerGo/src/domain/node.go" timestamp="1563434390790">
+        <mark key="[" line="57" column="34" />
+        <mark key="]" line="57" column="34" />
+        <mark key="." line="57" column="34" />
+        <mark key="^" line="57" column="32" />
+      </file>
+      <file name="go.sdk.xml" timestamp="1563374727324">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/go/src/github.com/RY-2718/AtCoderGo/ABC133/C/main.go" timestamp="1563348527541">
         <mark key="[" line="23" column="31" />
         <mark key="]" line="23" column="31" />
         <mark key="^" line="23" column="31" />
         <mark key="." line="23" column="31" />
       </file>
+      <file name="$USER_HOME$/go/src/github.com/RY-2718/AtCoderGo/ABC133/B/main.go" timestamp="1563346046499">
+        <mark key="[" line="35" column="0" />
+        <mark key="]" line="35" column="0" />
+        <mark key="." line="35" column="0" />
+      </file>
+      <file name="$USER_HOME$/go/src/github.com/TeraokaKanekoLab/CatalogueServerGo/src/interface/controller/catalogues_controller.go" timestamp="1563434472432">
+        <mark key="[" line="28" column="0" />
+        <mark key="]" line="28" column="0" />
+        <mark key="^" line="27" column="0" />
+        <mark key="." line="28" column="0" />
+      </file>
+      <file name="$USER_HOME$/go/src/github.com/TeraokaKanekoLab/CatalogueServerGo/src/interface/database/catalogue_repository_test.go" timestamp="1563434546023">
+        <mark key="'" line="35" column="14" />
+        <mark key="[" line="35" column="19" />
+        <mark key="]" line="35" column="20" />
+        <mark key="." line="35" column="20" />
+      </file>
       <file name="$USER_HOME$/go/src/github.com/RY-2718/AtCoderGo/Sample/main_test.go" timestamp="1563347461376">
         <mark key="[" line="38" column="18" />
         <mark key="]" line="38" column="19" />
         <mark key="." line="38" column="19" />
+      </file>
+      <file name="$USER_HOME$/go/src/github.com/TeraokaKanekoLab/CatalogueServerGo/src/domain/node_test.go" timestamp="1563434433289">
+        <mark key="[" line="35" column="22" />
+        <mark key="]" line="35" column="23" />
+        <mark key="." line="35" column="23" />
       </file>
       <file name="$USER_HOME$/go/src/github.com/RY-2718/AtCoderGo/ABC133/C/main_test.go" timestamp="1563348455728">
         <mark key="[" line="16" column="17" />
@@ -52,11 +86,6 @@
         <mark key="]" line="59" column="50" />
         <mark key="." line="59" column="50" />
         <mark key="^" line="59" column="50" />
-      </file>
-      <file name="$USER_HOME$/go/src/github.com/RY-2718/AtCoderGo/ABC133/B/main.go" timestamp="1563346046499">
-        <mark key="[" line="35" column="0" />
-        <mark key="]" line="35" column="0" />
-        <mark key="." line="35" column="0" />
       </file>
       <file name="$USER_HOME$/go/src/github.com/RY-2718/AtCoderGo/ABC133/D/main_test.go" timestamp="1563370431285">
         <mark key="'" line="18" column="22" />
@@ -82,57 +111,59 @@
       <jump line="20" column="0" filename="$USER_HOME$/go/src/github.com/RY-2718/AtCoderGo/ABC133/D/main.go" />
       <jump line="51" column="39" filename="$USER_HOME$/go/src/github.com/RY-2718/AtCoderGo/ABC133/D/main.go" />
       <jump line="13" column="0" filename="$USER_HOME$/go/src/github.com/RY-2718/AtCoderGo/ABC133/D/main.go" />
+      <jump line="70" column="4" filename="$USER_HOME$/go/src/github.com/TeraokaKanekoLab/CatalogueServerGo/src/interface/database/catalogue_repository_test.go" />
+      <jump line="35" column="14" filename="$USER_HOME$/go/src/github.com/TeraokaKanekoLab/CatalogueServerGo/src/interface/database/catalogue_repository_test.go" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">ICsgc3VtT2Rkc1tuLzJdIC0gc3VtT2Rkc1tpLzJdKQ==</text>
+        <text>0</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ICsgc3VtT2Rkc1tuLzJdIC0gc3VtT2Rkc1tpLzJdKQ==</text>
+        <text>0</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxzdW1PZGRzXD4=</text>
+        <text>010101</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">CQkJLy8gb3RoZXJzIDo9IDIgKiAoc3VtRXZlbnNbaS8yXSArIHN1bU9kZHNbbi8yXSAtIHN1bU9kZHNbaS8yXSkK</text>
       </register>
-      <register name="1" type="4">
+      <register name="1" type="2">
+        <text encoding="base64">CX0K</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">CWlmIGxlbihjYXRhbG9ndWVJRCkgIT0gMTYgewoJCWxvZy5QcmludGxuKCJjYXRhbG9ndWUgaWQgbm90IHZhbGlkOiAiICsgY2F0YWxvZ3VlSUQpCgkJdy5Xcml0ZUhlYWRlcig0MDApCgkJcmV0dXJuCg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">CWlmIGxlbihjYXRhbG9ndWVJRCkgIT0gMTYgewoJCWxvZy5QcmludGxuKCJjYXRhbG9ndWUgaWQgbm90IHZhbGlkOiAiICsgY2F0YWxvZ3VlSUQpCgkJdy5Xcml0ZUhlYWRlcig0MDApCgkJcmV0dXJuCgl9Cgo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">CXNlcnZlcklEU3RyIDo9IHNbMDo0XQoJT3duZXJJRFN0ciA6PSBzWzQ6OF0KCUxvY2FsSURTdHIgOj0gc1s4OjEyXQoJVmVyc2lvbklEU3RyIDo9IHNbMTI6MTZdCg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">CXNlcnZlcklEU3RyIDo9IHNbMDo0XQoJT3duZXJJRFN0ciA6PSBzWzQ6OF0KCUxvY2FsSURTdHIgOj0gc1s4OjEyXQo=</text>
+      </register>
+      <register name="6" type="4">
         <text>sumOdds[i/2])
 			others := 2 * sumEvens[i/2]</text>
       </register>
-      <register name="2" type="2">
+      <register name="7" type="2">
         <text encoding="base64">CQkJLy8g5Ye65Yqb44Gu44Gf44KB44Gr5aC05ZCI5YiG44GR44GX44Gf44GR44Gp77yM5aC05ZCI5YiG44GR44GX44Gq44GE5aC05ZCI44GvIAo=</text>
       </register>
-      <register name="3" type="2">
+      <register name="8" type="2">
         <text encoding="base64">CQkJb3RoZXJzIDo9IHN1bU9kZHMK</text>
       </register>
-      <register name="4" type="2">
+      <register name="9" type="2">
         <text encoding="base64">CQkJLy8gaSA9IDIg44Gu44Go44GN5qyy44GX44GE44Gu44GvCg==</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">CS8vIOOBvuOBn++8jHN1bSA9IHhfMCArIHhfMSArIC4uLiArIHhfNAoJLy8geF8yID0gc3VtIC0gKHhfMCArIHhfMSArIHhfMyArIHhfNCkg44Gq44Gu44GnIHhfMCArIHhfMSArIHhfMyArIHhfNCDjgYzmrLLjgZfjgYQKCS8vIGFfMCA9IDEvMih4XzAgKyB4XzEpLCBhXzMgPSAxLzIoeF8zICsgeF80KSDjgarjga7jgacKCS8vIHhfMiA9IHN1bSAtIDIgKiAoc3VtRXZlbnNbMV0gKyBzdW1PZGRzWzJdIC0gc3VtT2Rkc1sxXSkgPSBzdW0gLSAyICogKHN1bUV2ZW5zWzIvMl0gKyBzdW1PZGRzWzUvMl0gLSBzdW1PZGRzWzIvMi0xXSkKCS8vIOWQjOanmOOBqyB4XzAgPSBzdW0gLSAoeF8xICsgeF8yKyB4XzMgKyB4XzQpID0gc3VtIC0gMiAqIChzdW1FdmVuc1swXSArIHN1bU9kZHNbMl0gLSBzdW1PZGRzWzBdKSA9IHN1bSAtIDIgKiAoc3VtRXZlbnNbMC8yXSArIHN1bU9kZHNbNS8yXSAtIHN1bU9kZHNbMC8yXSkK</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">CS8vIHhfMCA9IAo=</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">CS8vIHhfMCA9IAo=</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">CS8vIHhfMiA9IHN1bSAtICh4XzAgKyB4XzEgKyB4XzMgKyB4XzQpIOOBquOBruOBpyB4XzAgKyB4XzEgKyB4XzMgKyB4XzQg44GM5qyy44GX44GECg==</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">CS8vIHhfMiA9IHN1bSAtICh4XzAgKyB4XzEgKyB4XzMgKyB4XzQpIOOBquOBruOBpyB4XzAgKyB4XzEgKyB4XzMgKyB4XzQg44GM5qyy44GX44GECg==</text>
-      </register>
       <register name=":" type="4">
-        <text encoding="base64">JzwsJz5xYQ==</text>
+        <text>q</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxzdW1PZGRzXD4=</last-search>
+      <last-search>010101</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxzdW1PZGRzXD4=</last-pattern>
-      <last-dir>-1</last-dir>
+      <last-pattern>010101</last-pattern>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
@@ -140,16 +171,13 @@
         <entry encoding="base64">XDwxXD4=</entry>
         <entry encoding="base64">XDznlarlhbVcPg==</entry>
         <entry encoding="base64">XDxzdW1PZGRzXD4=</entry>
+        <entry>010101</entry>
       </history-search>
       <history-cmd>
-        <entry>36</entry>
-        <entry>41,50d</entry>
         <entry>26,37d</entry>
         <entry>10</entry>
         <entry>13,22</entry>
-        <entry>q</entry>
         <entry>21y</entry>
-        <entry>qa</entry>
         <entry>13,22d</entry>
         <entry>26</entry>
         <entry>30</entry>
@@ -160,9 +188,15 @@
         <entry>31</entry>
         <entry>28</entry>
         <entry>27,31d</entry>
-        <entry>w</entry>
         <entry encoding="base64">JzwsJz5xYQ==</entry>
+        <entry>w</entry>
+        <entry>wq</entry>
+        <entry>29,34d</entry>
+        <entry>qa</entry>
+        <entry>q</entry>
       </history-cmd>
+      <history-expr />
+      <history-input />
     </history>
     <shortcut-conflicts>
       <shortcut-conflict owner="vim">
@@ -179,6 +213,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed B</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed F</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
