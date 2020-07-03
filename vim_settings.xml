@@ -16,8 +16,8 @@
         <entry>vs</entry>
         <entry>8</entry>
         <entry>'s,'ed</entry>
-        <entry>q</entry>
         <entry>w</entry>
+        <entry>q</entry>
       </history-cmd>
     </history>
   </component>
@@ -138,12 +138,12 @@
         <mark key="[" line="41" column="0" />
         <mark key="]" line="41" column="45" />
       </file>
-      <file name="$USER_HOME$/ghq/gitlab.ammo.colopl.jp/application/ammo-prizm/coop/breeding.go" timestamp="1593764960352">
-        <mark key="'" line="39" column="48" />
-        <mark key="[" line="18" column="46" />
-        <mark key="]" line="18" column="56" />
-        <mark key="." line="18" column="55" />
-        <mark key="^" line="18" column="56" />
+      <file name="$USER_HOME$/ghq/gitlab.ammo.colopl.jp/application/ammo-prizm/coop/breeding.go" timestamp="1593766736072">
+        <mark key="'" line="41" column="48" />
+        <mark key="[" line="23" column="139" />
+        <mark key="]" line="23" column="4" />
+        <mark key="." line="23" column="0" />
+        <mark key="^" line="23" column="4" />
       </file>
     </filemarks>
     <jumps>
@@ -162,8 +162,8 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">CXBhbmljKCJpbXBsZW1lbnQgbWUiKQo=</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">IA==</text>
@@ -175,34 +175,34 @@
         <text encoding="base64">CWhvc3RVc2VySUQgOj0gcGxheWVyLlNlc3Npb25JRCgpLlN0cmluZygpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CV8sIGNhbmNlbCA6PSBpbnRlcm5hbGFwaS5OZXdEZWZhdWx0Q29udGV4dCgpCglkZWZlciBjYW5jZWwoKQoK</text>
+        <text encoding="base64">CXBhbmljKCJpbXBsZW1lbnQgbWUiKQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CXVzZXJJRCA6PSBwbGF5ZXIuU2Vzc2lvbklEKCkuU3RyaW5nKCkKCXJvb21JRCA6PSBzLlJvb21JRCgpLlN0cmluZygpCg==</text>
+        <text encoding="base64">CV8sIGNhbmNlbCA6PSBpbnRlcm5hbGFwaS5OZXdEZWZhdWx0Q29udGV4dCgpCglkZWZlciBjYW5jZWwoKQoK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CXJldHVybiBicmVlCg==</text>
+        <text encoding="base64">CXVzZXJJRCA6PSBwbGF5ZXIuU2Vzc2lvbklEKCkuU3RyaW5nKCkKCXJvb21JRCA6PSBzLlJvb21JRCgpLlN0cmluZygpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CXJldHVybiAK</text>
+        <text encoding="base64">CXJldHVybiBicmVlCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CXJldHVybiBicmVlZGluZ3Jvb21wcm8K</text>
+        <text encoding="base64">CXJldHVybiAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CXNldFJvb21Qcm9wcygpCg==</text>
+        <text encoding="base64">CXJldHVybiBicmVlZGluZ3Jvb21wcm8K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CWlmICFvayB7CgkJbG9nLlByaW50ZigiZmFpbGVkIHRvIGdldCByb29tIHByb3BzIChyb29tSWQ6ICV2KSIsIHMuUm9vbUlEKCkpCgkJcmV0dXJuIG5pbCwgcnBjLkVycm9yKGZtdC5TcHJpbnRmKCJyb29tIHByb3BzIG5vdCBmb3VuZCAocm9vbUlkOiAldikiLCByb29tSUQpKQoJfQo=</text>
+        <text encoding="base64">CXNldFJvb21Qcm9wcygpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ZnVuYyBuZXcK</text>
+        <text encoding="base64">CWlmICFvayB7CgkJbG9nLlByaW50ZigiZmFpbGVkIHRvIGdldCByb29tIHByb3BzIChyb29tSWQ6ICV2KSIsIHMuUm9vbUlEKCkpCgkJcmV0dXJuIG5pbCwgcnBjLkVycm9yKGZtdC5TcHJpbnRmKCJyb29tIHByb3BzIG5vdCBmb3VuZCAocm9vbUlkOiAldikiLCByb29tSUQpKQoJfQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">LyoKICAgaG9zdDogewogICAgICAgcGFzc2l2ZVNraWxsSWRzOiBbXSwKICAgICAgIHBsYXllclNraWxsSWRzOiBbXSwKICAgICAgIHVpZCwKICAgICAgIHVzZXJNb3VudE1vbnN0ZXJJZDogJycsCiAgIH0sCiAgIGd1ZXN0OiB7CiAgICAgICBwYXNzaXZlU2tpbGxJZHM6IFtdLAogICAgICAgcGxheWVyU2tpbGxJZHM6IFtdLAogICAgICAgdWlkOiAnJywKICAgICAgIHVzZXJNb3VudE1vbnN0ZXJJZDogJycsCiAgIH0sCiovCg==</text>
+        <text encoding="base64">ZnVuYyBuZXcK</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>q</text>
       </register>
     </registers>
   </component>
