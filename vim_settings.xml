@@ -14,10 +14,10 @@
         <entry>6</entry>
         <entry>'s,'ey</entry>
         <entry>vs</entry>
-        <entry>q</entry>
         <entry>8</entry>
-        <entry>w</entry>
         <entry>'s,'ed</entry>
+        <entry>q</entry>
+        <entry>w</entry>
       </history-cmd>
     </history>
   </component>
@@ -70,6 +70,49 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/ghq/gitlab.ammo.colopl.jp/application/ammo-prizm/proto/game.proto" timestamp="1593761207039">
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="43" />
+      </file>
+      <file name="$USER_HOME$/ghq/gitlab.ammo.colopl.jp/application/ammo-prizm/coop/breedingroomprops.go" timestamp="1593764933688">
+        <mark key="'" line="19" column="5" />
+        <mark key="[" line="20" column="30" />
+        <mark key="]" line="20" column="66" />
+        <mark key="." line="20" column="65" />
+        <mark key="^" line="20" column="66" />
+      </file>
+      <file name="$USER_HOME$/ghq/gitlab.ammo.colopl.jp/application/ammo-prizm/proto/relay.proto" timestamp="1593754024746">
+        <mark key="[" line="0" column="18" />
+        <mark key="]" line="1" column="27" />
+        <mark key="." line="1" column="26" />
+        <mark key="^" line="1" column="27" />
+      </file>
+      <file name="$USER_HOME$/ghq/gitlab.ammo.colopl.jp/application/ammo-prizm/coop/roomprops.go" timestamp="1593762683364">
+        <mark key="[" line="0" column="12" />
+        <mark key="]" line="2" column="40" />
+        <mark key="^" line="2" column="40" />
+        <mark key="." line="2" column="39" />
+      </file>
+      <file name="$USER_HOME$/ghq/gitlab.ammo.colopl.jp/application/ammo-prizm/cmd/ammo-prizm/main.go" timestamp="1593761411424">
+        <mark key="[" line="38" column="55" />
+        <mark key="]" line="39" column="61" />
+        <mark key="^" line="39" column="61" />
+        <mark key="." line="39" column="60" />
+      </file>
+      <file name="$USER_HOME$/ghq/gitlab.ammo.colopl.jp/application/ammo-prizm/proto/breeding.proto" timestamp="1593761221636">
+        <mark key="'" line="119" column="1" />
+        <mark key="[" line="6" column="41" />
+        <mark key="]" line="7" column="2" />
+        <mark key="^" line="7" column="2" />
+        <mark key="." line="7" column="1" />
+      </file>
+      <file name="$USER_HOME$/ghq/gitlab.ammo.colopl.jp/application/ammo-prizm/coop/game.go" timestamp="1593761960317">
+        <mark key="s" line="39" column="0" />
+        <mark key="e" line="42" column="0" />
+        <mark key="'" line="27" column="0" />
+        <mark key="[" line="39" column="0" />
+        <mark key="]" line="42" column="5" />
+      </file>
       <file name="$USER_HOME$/ghq/gitlab.ammo.colopl.jp/application/ammo-prizm/coopbot/client.go" timestamp="1593760094097">
         <mark key="'" line="45" column="53" />
         <mark key="[" line="159" column="6" />
@@ -91,53 +134,16 @@
         <mark key="." line="27" column="61" />
         <mark key="^" line="27" column="69" />
       </file>
-      <file name="$USER_HOME$/ghq/gitlab.ammo.colopl.jp/application/ammo-prizm/proto/game.proto" timestamp="1593761207039">
-        <mark key="[" line="6" column="0" />
-        <mark key="]" line="6" column="43" />
+      <file name="$USER_HOME$/ghq/gitlab.ammo.colopl.jp/application/ammo-prizm/coop/room.go" timestamp="1593764867028">
+        <mark key="[" line="41" column="0" />
+        <mark key="]" line="41" column="45" />
       </file>
-      <file name="$USER_HOME$/ghq/gitlab.ammo.colopl.jp/application/ammo-prizm/coop/breedingroomprops.go" timestamp="1593762756066">
-        <mark key="[" line="31" column="5" />
-        <mark key="]" line="32" column="43" />
-        <mark key="." line="32" column="42" />
-        <mark key="^" line="32" column="43" />
-      </file>
-      <file name="$USER_HOME$/ghq/gitlab.ammo.colopl.jp/application/ammo-prizm/proto/relay.proto" timestamp="1593754024746">
-        <mark key="[" line="0" column="18" />
-        <mark key="]" line="1" column="27" />
-        <mark key="." line="1" column="26" />
-        <mark key="^" line="1" column="27" />
-      </file>
-      <file name="$USER_HOME$/ghq/gitlab.ammo.colopl.jp/application/ammo-prizm/coop/roomprops.go" timestamp="1593762683364">
-        <mark key="[" line="0" column="12" />
-        <mark key="]" line="2" column="40" />
-        <mark key="^" line="2" column="40" />
-        <mark key="." line="2" column="39" />
-      </file>
-      <file name="$USER_HOME$/ghq/gitlab.ammo.colopl.jp/application/ammo-prizm/cmd/ammo-prizm/main.go" timestamp="1593761411424">
-        <mark key="[" line="38" column="55" />
-        <mark key="]" line="39" column="61" />
-        <mark key="^" line="39" column="61" />
-        <mark key="." line="39" column="60" />
-      </file>
-      <file name="$USER_HOME$/ghq/gitlab.ammo.colopl.jp/application/ammo-prizm/coop/breeding.go" timestamp="1593763136161">
-        <mark key="'" line="40" column="26" />
-        <mark key="[" line="17" column="0" />
-        <mark key="]" line="17" column="0" />
-        <mark key="." line="17" column="0" />
-      </file>
-      <file name="$USER_HOME$/ghq/gitlab.ammo.colopl.jp/application/ammo-prizm/proto/breeding.proto" timestamp="1593761221636">
-        <mark key="'" line="119" column="1" />
-        <mark key="[" line="6" column="41" />
-        <mark key="]" line="7" column="2" />
-        <mark key="^" line="7" column="2" />
-        <mark key="." line="7" column="1" />
-      </file>
-      <file name="$USER_HOME$/ghq/gitlab.ammo.colopl.jp/application/ammo-prizm/coop/game.go" timestamp="1593761960317">
-        <mark key="s" line="39" column="0" />
-        <mark key="e" line="42" column="0" />
-        <mark key="'" line="27" column="0" />
-        <mark key="[" line="39" column="0" />
-        <mark key="]" line="42" column="5" />
+      <file name="$USER_HOME$/ghq/gitlab.ammo.colopl.jp/application/ammo-prizm/coop/breeding.go" timestamp="1593764960352">
+        <mark key="'" line="39" column="48" />
+        <mark key="[" line="18" column="46" />
+        <mark key="]" line="18" column="56" />
+        <mark key="." line="18" column="55" />
+        <mark key="^" line="18" column="56" />
       </file>
     </filemarks>
     <jumps>
@@ -150,21 +156,23 @@
       <jump line="27" column="0" filename="$USER_HOME$/ghq/gitlab.ammo.colopl.jp/application/ammo-prizm/coop/game.go" />
       <jump line="27" column="28" filename="$USER_HOME$/ghq/gitlab.ammo.colopl.jp/application/ammo-prizm/coop/breeding.go" />
       <jump line="49" column="26" filename="$USER_HOME$/ghq/gitlab.ammo.colopl.jp/application/ammo-prizm/coop/breeding.go" />
+      <jump line="19" column="5" filename="$USER_HOME$/ghq/gitlab.ammo.colopl.jp/application/ammo-prizm/coop/breedingroomprops.go" />
+      <jump line="38" column="48" filename="$USER_HOME$/ghq/gitlab.ammo.colopl.jp/application/ammo-prizm/coop/breeding.go" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">CV8sIGNhbmNlbCA6PSBpbnRlcm5hbGFwaS5OZXdEZWZhdWx0Q29udGV4dCgpCglkZWZlciBjYW5jZWwoKQoK</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>ctx</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>roomID</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">CWlmICFvayB7CgkJbG9nLlByaW50ZigiZmFpbGVkIHRvIGdldCByb29tIHByb3BzIChyb29tSWQ6ICV2KSIsIHMuUm9vbUlEKCkpCgkJcmV0dXJuIG5pbCwgcnBjLkVycm9yKGZtdC5TcHJpbnRmKCJyb29tIHByb3BzIG5vdCBmb3VuZCAocm9vbUlkOiAldikiLCByb29tSUQpKQoJfQo=</text>
+        <text encoding="base64">CWhvc3RVc2VySUQgOj0gcGxheWVyLlNlc3Npb25JRCgpLlN0cmluZygpCg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">CV8sIGNhbmNlbCA6PSBpbnRlcm5hbGFwaS5OZXdEZWZhdWx0Q29udGV4dCgpCglkZWZlciBjYW5jZWwoKQoK</text>
@@ -194,7 +202,7 @@
         <text encoding="base64">LyoKICAgaG9zdDogewogICAgICAgcGFzc2l2ZVNraWxsSWRzOiBbXSwKICAgICAgIHBsYXllclNraWxsSWRzOiBbXSwKICAgICAgIHVpZCwKICAgICAgIHVzZXJNb3VudE1vbnN0ZXJJZDogJycsCiAgIH0sCiAgIGd1ZXN0OiB7CiAgICAgICBwYXNzaXZlU2tpbGxJZHM6IFtdLAogICAgICAgcGxheWVyU2tpbGxJZHM6IFtdLAogICAgICAgdWlkOiAnJywKICAgICAgIHVzZXJNb3VudE1vbnN0ZXJJZDogJycsCiAgIH0sCiovCg==</text>
       </register>
       <register name=":" type="4">
-        <text>'s,'ed</text>
+        <text>w</text>
       </register>
     </registers>
   </component>
