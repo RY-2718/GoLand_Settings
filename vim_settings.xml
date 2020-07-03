@@ -1,6 +1,10 @@
 <application>
-  <component name="VimSettings">
-    <state version="5" enabled="true" />
+  <component name="VimEditorSettings">
+    <editor>
+      <key-repeat enabled="false" />
+    </editor>
+  </component>
+  <component name="VimKeySettings">
     <shortcut-conflicts>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed E</text>
@@ -45,9 +49,43 @@
         <text>ctrl pressed J</text>
       </shortcut-conflict>
     </shortcut-conflicts>
-    <editor>
-      <key-repeat enabled="true" />
-    </editor>
+  </component>
+  <component name="VimMarksSettings">
+    <globalmarks />
+    <filemarks>
+      <file name="$USER_HOME$/ghq/gitlab.ammo.colopl.jp/application/ammo-prizm/proto/relay.proto" timestamp="1593754024746">
+        <mark key="[" line="0" column="18" />
+        <mark key="]" line="1" column="27" />
+        <mark key="." line="1" column="26" />
+        <mark key="^" line="1" column="27" />
+      </file>
+    </filemarks>
+    <jumps />
+  </component>
+  <component name="VimRegisterSettings">
+    <registers>
+      <register name="1" type="2">
+        <text encoding="base64">aW1wb3J0ICJjb2xvcGwvcHJpem0iCg==</text>
+      </register>
+      <register name="&quot;" type="2">
+        <text encoding="base64">aW1wb3J0ICJjb2xvcGwvcHJpem0iCg==</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">aW1wb3J0ICJvcHRpb25zL2NhcmUtb3B0aW9uLnByb3RvIjsK</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">aW1wb3J0ICJnb29nbGUvcHJvdG9idWYvZW1wdHkucHJvdG8iOwo=</text>
+      </register>
+    </registers>
+  </component>
+  <component name="VimSearchSettings">
+    <search>
+      <last-dir>0</last-dir>
+      <show-last>false</show-last>
+    </search>
+  </component>
+  <component name="VimSettings">
+    <state version="6" enabled="true" />
     <notifications>
       <idea-join enabled="true" />
       <idea-put enabled="false" />
