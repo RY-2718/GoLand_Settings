@@ -10,12 +10,14 @@
         <entry>roomID</entry>
       </history-search>
       <history-cmd>
-        <entry>w</entry>
         <entry>qa</entry>
         <entry>6</entry>
         <entry>'s,'ey</entry>
         <entry>vs</entry>
         <entry>q</entry>
+        <entry>8</entry>
+        <entry>w</entry>
+        <entry>'s,'ed</entry>
       </history-cmd>
     </history>
   </component>
@@ -93,11 +95,11 @@
         <mark key="[" line="6" column="0" />
         <mark key="]" line="6" column="43" />
       </file>
-      <file name="$USER_HOME$/ghq/gitlab.ammo.colopl.jp/application/ammo-prizm/coop/breedingroomprops.go" timestamp="1593762174774">
-        <mark key="[" line="5" column="1" />
-        <mark key="]" line="2" column="30" />
-        <mark key="^" line="2" column="30" />
-        <mark key="." line="2" column="29" />
+      <file name="$USER_HOME$/ghq/gitlab.ammo.colopl.jp/application/ammo-prizm/coop/breedingroomprops.go" timestamp="1593762756066">
+        <mark key="[" line="31" column="5" />
+        <mark key="]" line="32" column="43" />
+        <mark key="." line="32" column="42" />
+        <mark key="^" line="32" column="43" />
       </file>
       <file name="$USER_HOME$/ghq/gitlab.ammo.colopl.jp/application/ammo-prizm/proto/relay.proto" timestamp="1593754024746">
         <mark key="[" line="0" column="18" />
@@ -105,17 +107,23 @@
         <mark key="." line="1" column="26" />
         <mark key="^" line="1" column="27" />
       </file>
+      <file name="$USER_HOME$/ghq/gitlab.ammo.colopl.jp/application/ammo-prizm/coop/roomprops.go" timestamp="1593762683364">
+        <mark key="[" line="0" column="12" />
+        <mark key="]" line="2" column="40" />
+        <mark key="^" line="2" column="40" />
+        <mark key="." line="2" column="39" />
+      </file>
       <file name="$USER_HOME$/ghq/gitlab.ammo.colopl.jp/application/ammo-prizm/cmd/ammo-prizm/main.go" timestamp="1593761411424">
         <mark key="[" line="38" column="55" />
         <mark key="]" line="39" column="61" />
         <mark key="^" line="39" column="61" />
         <mark key="." line="39" column="60" />
       </file>
-      <file name="$USER_HOME$/ghq/gitlab.ammo.colopl.jp/application/ammo-prizm/coop/breeding.go" timestamp="1593761961306">
-        <mark key="[" line="28" column="0" />
-        <mark key="]" line="31" column="5" />
-        <mark key="." line="28" column="0" />
-        <mark key="^" line="26" column="4" />
+      <file name="$USER_HOME$/ghq/gitlab.ammo.colopl.jp/application/ammo-prizm/coop/breeding.go" timestamp="1593763136161">
+        <mark key="'" line="40" column="26" />
+        <mark key="[" line="17" column="0" />
+        <mark key="]" line="17" column="0" />
+        <mark key="." line="17" column="0" />
       </file>
       <file name="$USER_HOME$/ghq/gitlab.ammo.colopl.jp/application/ammo-prizm/proto/breeding.proto" timestamp="1593761221636">
         <mark key="'" line="119" column="1" />
@@ -140,15 +148,17 @@
       <jump line="45" column="53" filename="$USER_HOME$/ghq/gitlab.ammo.colopl.jp/application/ammo-prizm/coopbot/client.go" />
       <jump line="116" column="1" filename="$USER_HOME$/ghq/gitlab.ammo.colopl.jp/application/ammo-prizm/proto/breeding.proto" />
       <jump line="27" column="0" filename="$USER_HOME$/ghq/gitlab.ammo.colopl.jp/application/ammo-prizm/coop/game.go" />
+      <jump line="27" column="28" filename="$USER_HOME$/ghq/gitlab.ammo.colopl.jp/application/ammo-prizm/coop/breeding.go" />
+      <jump line="49" column="26" filename="$USER_HOME$/ghq/gitlab.ammo.colopl.jp/application/ammo-prizm/coop/breeding.go" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>p</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">CV8sIGNhbmNlbCA6PSBpbnRlcm5hbGFwaS5OZXdEZWZhdWx0Q29udGV4dCgpCglkZWZlciBjYW5jZWwoKQoK</text>
       </register>
       <register name="-" type="4">
-        <text>p</text>
+        <text>ctx</text>
       </register>
       <register name="/" type="4">
         <text>roomID</text>
@@ -157,31 +167,34 @@
         <text encoding="base64">CWlmICFvayB7CgkJbG9nLlByaW50ZigiZmFpbGVkIHRvIGdldCByb29tIHByb3BzIChyb29tSWQ6ICV2KSIsIHMuUm9vbUlEKCkpCgkJcmV0dXJuIG5pbCwgcnBjLkVycm9yKGZtdC5TcHJpbnRmKCJyb29tIHByb3BzIG5vdCBmb3VuZCAocm9vbUlkOiAldikiLCByb29tSUQpKQoJfQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CXBhbmljKCJpbXBsZW1lbnQgbWUiKQo=</text>
+        <text encoding="base64">CV8sIGNhbmNlbCA6PSBpbnRlcm5hbGFwaS5OZXdEZWZhdWx0Q29udGV4dCgpCglkZWZlciBjYW5jZWwoKQoK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CXMuCg==</text>
+        <text encoding="base64">CXVzZXJJRCA6PSBwbGF5ZXIuU2Vzc2lvbklEKCkuU3RyaW5nKCkKCXJvb21JRCA6PSBzLlJvb21JRCgpLlN0cmluZygpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CQo=</text>
+        <text encoding="base64">CXJldHVybiBicmVlCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CXBhbmljKCJpbXBsZW1lbnQgbWUiKQo=</text>
+        <text encoding="base64">CXJldHVybiAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CQlyZXR1cm4gCg==</text>
+        <text encoding="base64">CXJldHVybiBicmVlZGluZ3Jvb21wcm8K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0ICJjb2xvcGwvcHJpem0iCg==</text>
+        <text encoding="base64">CXNldFJvb21Qcm9wcygpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0ICJvcHRpb25zL2NhcmUtb3B0aW9uLnByb3RvIjsK</text>
+        <text encoding="base64">CWlmICFvayB7CgkJbG9nLlByaW50ZigiZmFpbGVkIHRvIGdldCByb29tIHByb3BzIChyb29tSWQ6ICV2KSIsIHMuUm9vbUlEKCkpCgkJcmV0dXJuIG5pbCwgcnBjLkVycm9yKGZtdC5TcHJpbnRmKCJyb29tIHByb3BzIG5vdCBmb3VuZCAocm9vbUlkOiAldikiLCByb29tSUQpKQoJfQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0ICJnb29nbGUvcHJvdG9idWYvZW1wdHkucHJvdG8iOwo=</text>
+        <text encoding="base64">ZnVuYyBuZXcK</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">LyoKICAgaG9zdDogewogICAgICAgcGFzc2l2ZVNraWxsSWRzOiBbXSwKICAgICAgIHBsYXllclNraWxsSWRzOiBbXSwKICAgICAgIHVpZCwKICAgICAgIHVzZXJNb3VudE1vbnN0ZXJJZDogJycsCiAgIH0sCiAgIGd1ZXN0OiB7CiAgICAgICBwYXNzaXZlU2tpbGxJZHM6IFtdLAogICAgICAgcGxheWVyU2tpbGxJZHM6IFtdLAogICAgICAgdWlkOiAnJywKICAgICAgIHVzZXJNb3VudE1vbnN0ZXJJZDogJycsCiAgIH0sCiovCg==</text>
       </register>
       <register name=":" type="4">
-        <text>q</text>
+        <text>'s,'ed</text>
       </register>
     </registers>
   </component>
