@@ -4,6 +4,13 @@
       <key-repeat enabled="false" />
     </editor>
   </component>
+  <component name="VimHistorySettings">
+    <history>
+      <history-cmd>
+        <entry>w</entry>
+      </history-cmd>
+    </history>
+  </component>
   <component name="VimKeySettings">
     <shortcut-conflicts>
       <shortcut-conflict owner="vim">
@@ -53,6 +60,19 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/ghq/gitlab.ammo.colopl.jp/application/ammo-prizm/coopbot/client.go" timestamp="1593759424265">
+        <mark key="[" line="312" column="4" />
+        <mark key="]" line="312" column="8" />
+        <mark key="^" line="312" column="8" />
+        <mark key="." line="312" column="4" />
+      </file>
+      <file name="$USER_HOME$/ghq/gitlab.ammo.colopl.jp/application/ammo-prizm/coopbot/client_test.go" timestamp="1593759482806">
+        <mark key="'" line="123" column="4" />
+        <mark key="[" line="162" column="73" />
+        <mark key="]" line="163" column="19" />
+        <mark key="^" line="163" column="19" />
+        <mark key="." line="163" column="18" />
+      </file>
       <file name="$USER_HOME$/ghq/gitlab.ammo.colopl.jp/application/ammo-prizm/proto/relay.proto" timestamp="1593754024746">
         <mark key="[" line="0" column="18" />
         <mark key="]" line="1" column="27" />
@@ -60,21 +80,30 @@
         <mark key="^" line="1" column="27" />
       </file>
     </filemarks>
-    <jumps />
+    <jumps>
+      <jump line="2" column="0" filename="$USER_HOME$/ghq/gitlab.ammo.colopl.jp/application/ammo-prizm/coopbot/client_test.go" />
+      <jump line="123" column="4" filename="$USER_HOME$/ghq/gitlab.ammo.colopl.jp/application/ammo-prizm/coopbot/client_test.go" />
+    </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0ICJjb2xvcGwvcHJpem0iCg==</text>
+        <text encoding="base64">CQlyZXR1cm4gCg==</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">aW1wb3J0ICJjb2xvcGwvcHJpem0iCg==</text>
+        <text encoding="base64">CQlyZXR1cm4gCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0ICJvcHRpb25zL2NhcmUtb3B0aW9uLnByb3RvIjsK</text>
+        <text encoding="base64">aW1wb3J0ICJjb2xvcGwvcHJpem0iCg==</text>
       </register>
       <register name="3" type="2">
+        <text encoding="base64">aW1wb3J0ICJvcHRpb25zL2NhcmUtb3B0aW9uLnByb3RvIjsK</text>
+      </register>
+      <register name="4" type="2">
         <text encoding="base64">aW1wb3J0ICJnb29nbGUvcHJvdG9idWYvZW1wdHkucHJvdG8iOwo=</text>
+      </register>
+      <register name=":" type="4">
+        <text>w</text>
       </register>
     </registers>
   </component>
