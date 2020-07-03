@@ -13,10 +13,10 @@
         <entry>qa</entry>
         <entry>6</entry>
         <entry>'s,'ey</entry>
-        <entry>vs</entry>
         <entry>8</entry>
         <entry>'s,'ed</entry>
         <entry>w</entry>
+        <entry>vs</entry>
         <entry>q</entry>
       </history-cmd>
     </history>
@@ -138,12 +138,12 @@
         <mark key="[" line="41" column="0" />
         <mark key="]" line="41" column="45" />
       </file>
-      <file name="$USER_HOME$/ghq/gitlab.ammo.colopl.jp/application/ammo-prizm/coop/breeding.go" timestamp="1593766736072">
+      <file name="$USER_HOME$/ghq/gitlab.ammo.colopl.jp/application/ammo-prizm/coop/breeding.go" timestamp="1593769028351">
         <mark key="'" line="41" column="48" />
-        <mark key="[" line="23" column="139" />
-        <mark key="]" line="23" column="4" />
-        <mark key="." line="23" column="0" />
-        <mark key="^" line="23" column="4" />
+        <mark key="[" line="41" column="0" />
+        <mark key="]" line="41" column="0" />
+        <mark key="." line="41" column="0" />
+        <mark key="^" line="40" column="37" />
       </file>
     </filemarks>
     <jumps>
@@ -166,7 +166,7 @@
         <text encoding="base64">CXBhbmljKCJpbXBsZW1lbnQgbWUiKQo=</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>CreateBreedingRoomRes</text>
       </register>
       <register name="/" type="4">
         <text>roomID</text>
@@ -178,28 +178,28 @@
         <text encoding="base64">CXBhbmljKCJpbXBsZW1lbnQgbWUiKQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CV8sIGNhbmNlbCA6PSBpbnRlcm5hbGFwaS5OZXdEZWZhdWx0Q29udGV4dCgpCglkZWZlciBjYW5jZWwoKQoK</text>
+        <text encoding="base64">CXBhbmljKCJpbXBsZW1lbnQgbWUiKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CXVzZXJJRCA6PSBwbGF5ZXIuU2Vzc2lvbklEKCkuU3RyaW5nKCkKCXJvb21JRCA6PSBzLlJvb21JRCgpLlN0cmluZygpCg==</text>
+        <text encoding="base64">CV8sIGNhbmNlbCA6PSBpbnRlcm5hbGFwaS5OZXdEZWZhdWx0Q29udGV4dCgpCglkZWZlciBjYW5jZWwoKQoK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CXJldHVybiBicmVlCg==</text>
+        <text encoding="base64">CXVzZXJJRCA6PSBwbGF5ZXIuU2Vzc2lvbklEKCkuU3RyaW5nKCkKCXJvb21JRCA6PSBzLlJvb21JRCgpLlN0cmluZygpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CXJldHVybiAK</text>
+        <text encoding="base64">CXJldHVybiBicmVlCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CXJldHVybiBicmVlZGluZ3Jvb21wcm8K</text>
+        <text encoding="base64">CXJldHVybiAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CXNldFJvb21Qcm9wcygpCg==</text>
+        <text encoding="base64">CXJldHVybiBicmVlZGluZ3Jvb21wcm8K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CWlmICFvayB7CgkJbG9nLlByaW50ZigiZmFpbGVkIHRvIGdldCByb29tIHByb3BzIChyb29tSWQ6ICV2KSIsIHMuUm9vbUlEKCkpCgkJcmV0dXJuIG5pbCwgcnBjLkVycm9yKGZtdC5TcHJpbnRmKCJyb29tIHByb3BzIG5vdCBmb3VuZCAocm9vbUlkOiAldikiLCByb29tSUQpKQoJfQo=</text>
+        <text encoding="base64">CXNldFJvb21Qcm9wcygpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ZnVuYyBuZXcK</text>
+        <text encoding="base64">CWlmICFvayB7CgkJbG9nLlByaW50ZigiZmFpbGVkIHRvIGdldCByb29tIHByb3BzIChyb29tSWQ6ICV2KSIsIHMuUm9vbUlEKCkpCgkJcmV0dXJuIG5pbCwgcnBjLkVycm9yKGZtdC5TcHJpbnRmKCJyb29tIHByb3BzIG5vdCBmb3VuZCAocm9vbUlkOiAldikiLCByb29tSUQpKQoJfQo=</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
