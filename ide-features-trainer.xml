@@ -7,6 +7,11 @@
   </component>
   <component name="LangManager">
     <option name="languageName" value="go" />
+    <option name="languageToProjectMap">
+      <map>
+        <entry key="go" value="$USER_HOME$/GolandProjects/LearnGoProject" />
+      </map>
+    </option>
   </component>
   <component name="LessonStateBase">
     <option name="map">
