@@ -2,6 +2,7 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping ext="prizmgen" type="PLAIN_TEXT" />
+      <mapping ext="nojwt_notls" type="PLAIN_TEXT" />
       <mapping ext="noprizmgen" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
