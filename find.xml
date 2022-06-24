@@ -9,11 +9,12 @@
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*_test.go" />
     <mask>*.css</mask>
     <mask>*.html</mask>
     <mask>*.xml</mask>
     <mask>*.md</mask>
-    <mask>*_test.go</mask>
     <mask>*.go</mask>
+    <mask>*_test.go</mask>
   </component>
 </application>
