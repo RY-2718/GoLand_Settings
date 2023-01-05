@@ -1,12 +1,12 @@
 <application>
   <component name="FileTypeManager" version="18">
     <extensionMap>
-      <mapping ext="prizmgen" type="PLAIN_TEXT" />
-      <mapping ext="docker" type="PLAIN_TEXT" />
-      <mapping ext="jwt_tls" type="PLAIN_TEXT" />
-      <mapping ext="nojwt_tls" type="PLAIN_TEXT" />
       <mapping ext="nojwt_notls" type="PLAIN_TEXT" />
+      <mapping ext="nojwt_tls" type="PLAIN_TEXT" />
+      <mapping ext="jwt_tls" type="PLAIN_TEXT" />
       <mapping ext="jwt_notls" type="PLAIN_TEXT" />
+      <mapping ext="docker" type="PLAIN_TEXT" />
+      <mapping ext="prizmgen" type="PLAIN_TEXT" />
       <mapping ext="noprizmgen" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
